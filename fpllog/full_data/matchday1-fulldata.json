@@ -1,0 +1,1615 @@
+{
+    "generated_at": "2021-08-15T19:50:07+00:00",
+    "schema": "http:\/\/schemas.sportradar.com\/bsa\/soccer\/v1\/json\/endpoints\/soccer\/tournament_leaders.json",
+    "tournament": {
+        "id": "sr:tournament:17",
+        "name": "Premier League",
+        "sport": {
+            "id": "sr:sport:1",
+            "name": "Soccer"
+        },
+        "category": {
+            "id": "sr:category:1",
+            "name": "England",
+            "country_code": "ENG"
+        },
+        "current_season": {
+            "id": "sr:season:83706",
+            "name": "Premier League 21\/22",
+            "start_date": "2021-08-13",
+            "end_date": "2022-05-22",
+            "year": "21\/22"
+        }
+    },
+    "season_coverage_info": {
+        "season_id": "sr:season:83706",
+        "scheduled": 380,
+        "played": 10,
+        "max_coverage_level": "platinum",
+        "max_covered": 9,
+        "min_coverage_level": "gold"
+    },
+    "top_points": [{
+        "goals": 0,
+        "assists": 4,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:111802",
+            "name": "Pogba, Paul"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "goals": 1,
+        "assists": 2,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:159665",
+            "name": "Salah, Mohamed"
+        },
+        "team": {
+            "id": "sr:competitor:44",
+            "name": "Liverpool FC",
+            "abbreviation": "LIV"
+        }
+    }, {
+        "goals": 3,
+        "assists": 0,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:288205",
+            "name": "Fernandes, Bruno"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "goals": 1,
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:47772",
+            "name": "Antonio, Michail"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "goals": 1,
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:354808",
+            "name": "Benrahma, Said"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "goals": 0,
+        "assists": 2,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:935220",
+            "name": "Moder, Jakub"
+        },
+        "team": {
+            "id": "sr:competitor:30",
+            "name": "Brighton & Hove Albion",
+            "abbreviation": "BRI"
+        }
+    }, {
+        "goals": 1,
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:992069",
+            "name": "Richarlison"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "goals": 1,
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:1010017",
+            "name": "Dennis, Emmanuel"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:42699",
+            "name": "Ritchie, Matt"
+        },
+        "team": {
+            "id": "sr:competitor:39",
+            "name": "Newcastle United",
+            "abbreviation": "NEW"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:43443",
+            "name": "Cresswell, Aaron"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:46432",
+            "name": "Cleverley, Tom"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:47992",
+            "name": "Townsend, Andros"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:49647",
+            "name": "Westwood, Ashley"
+        },
+        "team": {
+            "id": "sr:competitor:6",
+            "name": "Burnley FC",
+            "abbreviation": "BUR"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:69408",
+            "name": "Alonso, Marcos"
+        },
+        "team": {
+            "id": "sr:competitor:38",
+            "name": "Chelsea FC",
+            "abbreviation": "CHE"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:78454",
+            "name": "Dallas, Stuart"
+        },
+        "team": {
+            "id": "sr:competitor:34",
+            "name": "Leeds United",
+            "abbreviation": "LEE"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:96535",
+            "name": "Doucoure, Abdoulaye"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:102624",
+            "name": "Ayling, Luke"
+        },
+        "team": {
+            "id": "sr:competitor:34",
+            "name": "Leeds United",
+            "abbreviation": "LEE"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:111505",
+            "name": "Son, Heung Min"
+        },
+        "team": {
+            "id": "sr:competitor:33",
+            "name": "Tottenham Hotspur",
+            "abbreviation": "TOT"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:113956",
+            "name": "Wilson, Callum"
+        },
+        "team": {
+            "id": "sr:competitor:39",
+            "name": "Newcastle United",
+            "abbreviation": "NEW"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:130181",
+            "name": "Ings, Danny"
+        },
+        "team": {
+            "id": "sr:competitor:40",
+            "name": "Aston Villa",
+            "abbreviation": "AST"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:135256",
+            "name": "Norgaard, Christian"
+        },
+        "team": {
+            "id": "sr:competitor:50",
+            "name": "Brentford FC",
+            "abbreviation": "BRE"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:136710",
+            "name": "Kovacic, Mateo"
+        },
+        "team": {
+            "id": "sr:competitor:38",
+            "name": "Chelsea FC",
+            "abbreviation": "CHE"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:143334",
+            "name": "Lindelof, Victor"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:143697",
+            "name": "Firmino, Roberto"
+        },
+        "team": {
+            "id": "sr:competitor:44",
+            "name": "Liverpool FC",
+            "abbreviation": "LIV"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:145188",
+            "name": "Tarkowski, James"
+        },
+        "team": {
+            "id": "sr:competitor:6",
+            "name": "Burnley FC",
+            "abbreviation": "BUR"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:173827",
+            "name": "Vardy, Jamie"
+        },
+        "team": {
+            "id": "sr:competitor:31",
+            "name": "Leicester City",
+            "abbreviation": "LEI"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:221200",
+            "name": "Pereira, Ricardo"
+        },
+        "team": {
+            "id": "sr:competitor:31",
+            "name": "Leicester City",
+            "abbreviation": "LEI"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:243623",
+            "name": "Fred"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:250223",
+            "name": "McGinn, John"
+        },
+        "team": {
+            "id": "sr:competitor:40",
+            "name": "Aston Villa",
+            "abbreviation": "AST"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:268903",
+            "name": "Maupay, Neal"
+        },
+        "team": {
+            "id": "sr:competitor:30",
+            "name": "Brighton & Hove Albion",
+            "abbreviation": "BRI"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:347010",
+            "name": "Saint-Maximin, Allan"
+        },
+        "team": {
+            "id": "sr:competitor:39",
+            "name": "Newcastle United",
+            "abbreviation": "NEW"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:352770",
+            "name": "Iwobi, Alex"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:355052",
+            "name": "Canos, Sergi"
+        },
+        "team": {
+            "id": "sr:competitor:50",
+            "name": "Brentford FC",
+            "abbreviation": "BRE"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:359840",
+            "name": "Soucek, Tomas"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:361352",
+            "name": "Armstrong, Adam"
+        },
+        "team": {
+            "id": "sr:competitor:45",
+            "name": "Southampton FC",
+            "abbreviation": "SOU"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:361798",
+            "name": "Bergwijn, Steven"
+        },
+        "team": {
+            "id": "sr:competitor:33",
+            "name": "Tottenham Hotspur",
+            "abbreviation": "TOT"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:372336",
+            "name": "Murphy, Jacob"
+        },
+        "team": {
+            "id": "sr:competitor:39",
+            "name": "Newcastle United",
+            "abbreviation": "NEW"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:372344",
+            "name": "Calvert-Lewin, Dominic"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:606164",
+            "name": "Jota, Diogo"
+        },
+        "team": {
+            "id": "sr:competitor:44",
+            "name": "Liverpool FC",
+            "abbreviation": "LIV"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:773409",
+            "name": "Adams, Che"
+        },
+        "team": {
+            "id": "sr:competitor:45",
+            "name": "Southampton FC",
+            "abbreviation": "SOU"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:809758",
+            "name": "Pulisic, Christian"
+        },
+        "team": {
+            "id": "sr:competitor:38",
+            "name": "Chelsea FC",
+            "abbreviation": "CHE"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:883594",
+            "name": "Bailey, Leon"
+        },
+        "team": {
+            "id": "sr:competitor:40",
+            "name": "Aston Villa",
+            "abbreviation": "AST"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:912932",
+            "name": "Fornals, Pablo"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:936112",
+            "name": "Chalobah, Trevoh"
+        },
+        "team": {
+            "id": "sr:competitor:38",
+            "name": "Chelsea FC",
+            "abbreviation": "CHE"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:1011939",
+            "name": "Sarr, Ismaila"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "goals": 0,
+        "assists": 1,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:1056935",
+            "name": "Pinnock, Ethan"
+        },
+        "team": {
+            "id": "sr:competitor:50",
+            "name": "Brentford FC",
+            "abbreviation": "BRE"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:1234234",
+            "name": "Hernandez, Cucho"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:1245194",
+            "name": "MacAllister, Alexis"
+        },
+        "team": {
+            "id": "sr:competitor:30",
+            "name": "Brighton & Hove Albion",
+            "abbreviation": "BRI"
+        }
+    }, {
+        "goals": 1,
+        "assists": 0,
+        "rank": 9,
+        "player": {
+            "id": "sr:player:1546543",
+            "name": "Greenwood, Mason"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }],
+    "top_goals": [{
+        "goals": 3,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:288205",
+            "name": "Fernandes, Bruno"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:159665",
+            "name": "Salah, Mohamed"
+        },
+        "team": {
+            "id": "sr:competitor:44",
+            "name": "Liverpool FC",
+            "abbreviation": "LIV"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:47772",
+            "name": "Antonio, Michail"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:354808",
+            "name": "Benrahma, Said"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:992069",
+            "name": "Richarlison"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:1010017",
+            "name": "Dennis, Emmanuel"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:43443",
+            "name": "Cresswell, Aaron"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:69408",
+            "name": "Alonso, Marcos"
+        },
+        "team": {
+            "id": "sr:competitor:38",
+            "name": "Chelsea FC",
+            "abbreviation": "CHE"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:96535",
+            "name": "Doucoure, Abdoulaye"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:102624",
+            "name": "Ayling, Luke"
+        },
+        "team": {
+            "id": "sr:competitor:34",
+            "name": "Leeds United",
+            "abbreviation": "LEE"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:111505",
+            "name": "Son, Heung Min"
+        },
+        "team": {
+            "id": "sr:competitor:33",
+            "name": "Tottenham Hotspur",
+            "abbreviation": "TOT"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:113956",
+            "name": "Wilson, Callum"
+        },
+        "team": {
+            "id": "sr:competitor:39",
+            "name": "Newcastle United",
+            "abbreviation": "NEW"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:130181",
+            "name": "Ings, Danny"
+        },
+        "team": {
+            "id": "sr:competitor:40",
+            "name": "Aston Villa",
+            "abbreviation": "AST"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:135256",
+            "name": "Norgaard, Christian"
+        },
+        "team": {
+            "id": "sr:competitor:50",
+            "name": "Brentford FC",
+            "abbreviation": "BRE"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:143697",
+            "name": "Firmino, Roberto"
+        },
+        "team": {
+            "id": "sr:competitor:44",
+            "name": "Liverpool FC",
+            "abbreviation": "LIV"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:145188",
+            "name": "Tarkowski, James"
+        },
+        "team": {
+            "id": "sr:competitor:6",
+            "name": "Burnley FC",
+            "abbreviation": "BUR"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:173827",
+            "name": "Vardy, Jamie"
+        },
+        "team": {
+            "id": "sr:competitor:31",
+            "name": "Leicester City",
+            "abbreviation": "LEI"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:243623",
+            "name": "Fred"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:250223",
+            "name": "McGinn, John"
+        },
+        "team": {
+            "id": "sr:competitor:40",
+            "name": "Aston Villa",
+            "abbreviation": "AST"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:268903",
+            "name": "Maupay, Neal"
+        },
+        "team": {
+            "id": "sr:competitor:30",
+            "name": "Brighton & Hove Albion",
+            "abbreviation": "BRI"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:355052",
+            "name": "Canos, Sergi"
+        },
+        "team": {
+            "id": "sr:competitor:50",
+            "name": "Brentford FC",
+            "abbreviation": "BRE"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:359840",
+            "name": "Soucek, Tomas"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:361352",
+            "name": "Armstrong, Adam"
+        },
+        "team": {
+            "id": "sr:competitor:45",
+            "name": "Southampton FC",
+            "abbreviation": "SOU"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:372336",
+            "name": "Murphy, Jacob"
+        },
+        "team": {
+            "id": "sr:competitor:39",
+            "name": "Newcastle United",
+            "abbreviation": "NEW"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:372344",
+            "name": "Calvert-Lewin, Dominic"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:606164",
+            "name": "Jota, Diogo"
+        },
+        "team": {
+            "id": "sr:competitor:44",
+            "name": "Liverpool FC",
+            "abbreviation": "LIV"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:809758",
+            "name": "Pulisic, Christian"
+        },
+        "team": {
+            "id": "sr:competitor:38",
+            "name": "Chelsea FC",
+            "abbreviation": "CHE"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:936112",
+            "name": "Chalobah, Trevoh"
+        },
+        "team": {
+            "id": "sr:competitor:38",
+            "name": "Chelsea FC",
+            "abbreviation": "CHE"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:1011939",
+            "name": "Sarr, Ismaila"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:1234234",
+            "name": "Hernandez, Cucho"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:1245194",
+            "name": "MacAllister, Alexis"
+        },
+        "team": {
+            "id": "sr:competitor:30",
+            "name": "Brighton & Hove Albion",
+            "abbreviation": "BRI"
+        }
+    }, {
+        "goals": 1,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:1546543",
+            "name": "Greenwood, Mason"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }],
+    "top_assists": [{
+        "assists": 4,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:111802",
+            "name": "Pogba, Paul"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "assists": 2,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:159665",
+            "name": "Salah, Mohamed"
+        },
+        "team": {
+            "id": "sr:competitor:44",
+            "name": "Liverpool FC",
+            "abbreviation": "LIV"
+        }
+    }, {
+        "assists": 2,
+        "rank": 2,
+        "player": {
+            "id": "sr:player:935220",
+            "name": "Moder, Jakub"
+        },
+        "team": {
+            "id": "sr:competitor:30",
+            "name": "Brighton & Hove Albion",
+            "abbreviation": "BRI"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:47772",
+            "name": "Antonio, Michail"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:354808",
+            "name": "Benrahma, Said"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:992069",
+            "name": "Richarlison"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:1010017",
+            "name": "Dennis, Emmanuel"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:42699",
+            "name": "Ritchie, Matt"
+        },
+        "team": {
+            "id": "sr:competitor:39",
+            "name": "Newcastle United",
+            "abbreviation": "NEW"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:46432",
+            "name": "Cleverley, Tom"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:47992",
+            "name": "Townsend, Andros"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:49647",
+            "name": "Westwood, Ashley"
+        },
+        "team": {
+            "id": "sr:competitor:6",
+            "name": "Burnley FC",
+            "abbreviation": "BUR"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:78454",
+            "name": "Dallas, Stuart"
+        },
+        "team": {
+            "id": "sr:competitor:34",
+            "name": "Leeds United",
+            "abbreviation": "LEE"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:136710",
+            "name": "Kovacic, Mateo"
+        },
+        "team": {
+            "id": "sr:competitor:38",
+            "name": "Chelsea FC",
+            "abbreviation": "CHE"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:143334",
+            "name": "Lindelof, Victor"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:221200",
+            "name": "Pereira, Ricardo"
+        },
+        "team": {
+            "id": "sr:competitor:31",
+            "name": "Leicester City",
+            "abbreviation": "LEI"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:347010",
+            "name": "Saint-Maximin, Allan"
+        },
+        "team": {
+            "id": "sr:competitor:39",
+            "name": "Newcastle United",
+            "abbreviation": "NEW"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:352770",
+            "name": "Iwobi, Alex"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:361798",
+            "name": "Bergwijn, Steven"
+        },
+        "team": {
+            "id": "sr:competitor:33",
+            "name": "Tottenham Hotspur",
+            "abbreviation": "TOT"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:773409",
+            "name": "Adams, Che"
+        },
+        "team": {
+            "id": "sr:competitor:45",
+            "name": "Southampton FC",
+            "abbreviation": "SOU"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:883594",
+            "name": "Bailey, Leon"
+        },
+        "team": {
+            "id": "sr:competitor:40",
+            "name": "Aston Villa",
+            "abbreviation": "AST"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:912932",
+            "name": "Fornals, Pablo"
+        },
+        "team": {
+            "id": "sr:competitor:37",
+            "name": "West Ham United",
+            "abbreviation": "WES"
+        }
+    }, {
+        "assists": 1,
+        "rank": 4,
+        "player": {
+            "id": "sr:player:1056935",
+            "name": "Pinnock, Ethan"
+        },
+        "team": {
+            "id": "sr:competitor:50",
+            "name": "Brentford FC",
+            "abbreviation": "BRE"
+        }
+    }],
+    "top_cards": [{
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:992069",
+            "name": "Richarlison"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:96535",
+            "name": "Doucoure, Abdoulaye"
+        },
+        "team": {
+            "id": "sr:competitor:48",
+            "name": "Everton FC",
+            "abbreviation": "EVE"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:145188",
+            "name": "Tarkowski, James"
+        },
+        "team": {
+            "id": "sr:competitor:6",
+            "name": "Burnley FC",
+            "abbreviation": "BUR"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:173827",
+            "name": "Vardy, Jamie"
+        },
+        "team": {
+            "id": "sr:competitor:31",
+            "name": "Leicester City",
+            "abbreviation": "LEI"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:268903",
+            "name": "Maupay, Neal"
+        },
+        "team": {
+            "id": "sr:competitor:30",
+            "name": "Brighton & Hove Albion",
+            "abbreviation": "BRI"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:791",
+            "name": "Milner, James"
+        },
+        "team": {
+            "id": "sr:competitor:44",
+            "name": "Liverpool FC",
+            "abbreviation": "LIV"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:36465",
+            "name": "Shelvey, Jonjo"
+        },
+        "team": {
+            "id": "sr:competitor:39",
+            "name": "Newcastle United",
+            "abbreviation": "NEW"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:39327",
+            "name": "Cooper, Liam"
+        },
+        "team": {
+            "id": "sr:competitor:34",
+            "name": "Leeds United",
+            "abbreviation": "LEE"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:48563",
+            "name": "Kucka, Juraj"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:49805",
+            "name": "Gudmundsson, Johann"
+        },
+        "team": {
+            "id": "sr:competitor:6",
+            "name": "Burnley FC",
+            "abbreviation": "BUR"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:143593",
+            "name": "Marcal, Fernando"
+        },
+        "team": {
+            "id": "sr:competitor:3",
+            "name": "Wolverhampton Wanderers",
+            "abbreviation": "WOL"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:149710",
+            "name": "Moura, Lucas"
+        },
+        "team": {
+            "id": "sr:competitor:33",
+            "name": "Tottenham Hotspur",
+            "abbreviation": "TOT"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:189061",
+            "name": "Grealish, Jack"
+        },
+        "team": {
+            "id": "sr:competitor:17",
+            "name": "Manchester City",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:190839",
+            "name": "Shaw, Luke"
+        },
+        "team": {
+            "id": "sr:competitor:35",
+            "name": "Manchester United",
+            "abbreviation": "MAN"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:303638",
+            "name": "Mings, Tyrone"
+        },
+        "team": {
+            "id": "sr:competitor:40",
+            "name": "Aston Villa",
+            "abbreviation": "AST"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:319847",
+            "name": "Sema, Ken"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:566102",
+            "name": "Sanchez, Davinson"
+        },
+        "team": {
+            "id": "sr:competitor:33",
+            "name": "Tottenham Hotspur",
+            "abbreviation": "TOT"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:956430",
+            "name": "Raphinha"
+        },
+        "team": {
+            "id": "sr:competitor:34",
+            "name": "Leeds United",
+            "abbreviation": "LEE"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:986295",
+            "name": "Etebo, Oghenekaro"
+        },
+        "team": {
+            "id": "sr:competitor:24",
+            "name": "Watford FC",
+            "abbreviation": "WAT"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:1336196",
+            "name": "Cantwell, Todd"
+        },
+        "team": {
+            "id": "sr:competitor:263",
+            "name": "Norwich City",
+            "abbreviation": "NOR"
+        }
+    }, {
+        "red_cards": 0,
+        "yellow_red_cards": 0,
+        "yellow_cards": 1,
+        "rank": 1,
+        "player": {
+            "id": "sr:player:1626020",
+            "name": "Hoever, Ki-Jana"
+        },
+        "team": {
+            "id": "sr:competitor:3",
+            "name": "Wolverhampton Wanderers",
+            "abbreviation": "WOL"
+        }
+    }]
+}

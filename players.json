@@ -1,54 +1,73 @@
 [{
   "Players": [{
-    "Harry Kane": {
+    "Name": "Harry Kane",
+    "Statistics": [{
       "Rank": 1,
       "Goals": 22,
       "Assists": 13
-    },
-    "Bruno Fernandes": {
+    }]
+  }, {
+    "Name": "Bruno Fernandes",
+    "Statistics": [{
       "Rank": 2,
       "Goals": 17,
       "Assists": 12
-    },
-    "Heung Min Son": {
+    }]
+  }, {
+    "Name": "Heung Min Son",
+    "Statistics": [{
       "Rank": 3,
       "Goals": 17,
       "Assists": 10
-    },
-    "Mohamed Salah": {
+    }]
+  }, {
+    "Name": "Mohamed Salah",
+    "Statistics": [{
       "Rank": 4,
       "Goals": 22,
       "Assists": 4
-    },
-    "Patrick Bamford": {
+    }]
+  }, {
+    "Name": "Patrick Bamford",
+    "Statistics": [{
       "Rank": 5,
       "Goals": 16,
       "Assists": 6
-    },
-    "Jamie Vardy": {
+    }]
+  }, {
+    "Name": "Jamie Vardy",
+    "Statistics": [{
       "Rank": 6,
       "Goals": 13,
       "Assists": 8
-    },
-    "Marcus Rashford": {
+    }]
+  }, {
+    "Name": "Marcus Rashford",
+    "Statistics": [{
       "Rank": 7,
       "Goals": 11,
       "Assists": 9
-    },
-    "Ollie Watkins": {
+    }]
+  }, {
+    "Name": "Ollie Watkins",
+    "Statistics": [{
       "Rank": 8,
       "Goals": 22,
       "Assists": 13
-    },
-    "Matheus Pereira": {
+    }]
+  }, {
+    "Name": "Matheus Pereira",
+    "Statistics": [{
       "Rank": 9,
       "Goals": 11,
       "Assists": 7
-    },
-    "Sadio Mane": {
+    }]
+  }, {
+    "Name": "Sadio Mane",
+    "Statistics": [{
       "Rank": 10,
       "Goals": 9,
       "Assists": 8
-    }
+    }]
   }]	
 }]

@@ -1,0 +1,54 @@
+[{
+  "Players": [{
+    "Harry Kane": {
+      "Rank": 1,
+      "Goals": 22,
+      "Assists": 13
+    },
+    "Bruno Fernandes": {
+      "Rank": 2,
+      "Goals": 17,
+      "Assists": 12
+    },
+    "Heung Min Son": {
+      "Rank": 3,
+      "Goals": 17,
+      "Assists": 10
+    },
+    "Mohamed Salah": {
+      "Rank": 4,
+      "Goals": 22,
+      "Assists": 4
+    },
+    "Patrick Bamford": {
+      "Rank": 5,
+      "Goals": 16,
+      "Assists": 6
+    },
+    "Jamie Vardy": {
+      "Rank": 6,
+      "Goals": 13,
+      "Assists": 8
+    },
+    "Marcus Rashford": {
+      "Rank": 7,
+      "Goals": 11,
+      "Assists": 9
+    },
+    "Ollie Watkins": {
+      "Rank": 8,
+      "Goals": 22,
+      "Assists": 13
+    },
+    "Matheus Pereira": {
+      "Rank": 9,
+      "Goals": 11,
+      "Assists": 7
+    },
+    "Sadio Mane": {
+      "Rank": 10,
+      "Goals": 9,
+      "Assists": 8
+    }
+  }]	
+}]
