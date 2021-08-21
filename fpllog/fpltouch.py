@@ -15,30 +15,40 @@ for row in data:
 	row['perce_goals'] = row['goals']/row['goal_cont']*100
 	lst.append(row)
 
+'''
 for row in lst:
 	print(row, '\n')
+'''
 
+select = input('Type in a team name: ')
 team_goals = 0
-team_data = []
 for row in lst:
-	if row['team'] == 'Manchester United':
+	if row['team'] == select:
 		team_goals = team_goals + row['goals']
-		#team_data.append(team_goals)
 
-print(team_data)
+print(select, " scored a total of ", team_goals, " this game week.")
 
-tg = 0
-x = []
-for row in lst:
-	if row['team'] == "Manchester United":
-		tg = tg+row['goals']
-		print(tg)
-		if row['team'] == '':
-			x.append(tg)
+team_lst = []
+for row in data:
+	if row['team'] == select:
+		team_lst.append(row)
+		perc_goals = row['goals']/team_goals*100
+		team_lst.append(perc_goals)
 
-print(x)
+for items in team_lst:
+	print(items)
+'''
+total_team = 0
+perc_goals = 0
+#select = input('Type in a team name: ')
+for row in data:
+	if row['team'] == select:
+		total_team = total_team + row['goals']
+		if row['goals'] != 0:
+			perc_goals = row['goals']/total_team*100
+		print(row, total_team, perc_goals, '\n')
 
-
+'''
 
 
 	
