@@ -1,8 +1,9 @@
 import json
 
-with open('matchday1.json', 'r') as f:
+with open('matchday2.json', 'r') as f:
 	data = json.load(f)
 
+select = input('Type in a team name: ')
 lst = []
 for row in data:
 	row['name'] = str(row['name'])
@@ -20,7 +21,6 @@ for row in lst:
 	print(row, '\n')
 '''
 
-select = input('Type in a team name: ')
 team_goals = 0
 for row in lst:
 	if row['team'] == select:
@@ -35,8 +35,13 @@ for row in data:
 		perc_goals = row['goals']/team_goals*100
 		team_lst.append(perc_goals)
 
-for items in team_lst:
-	print(items)
+for row in team_lst:
+	print(row, '\n')
+
+
+
+
+
 '''
 total_team = 0
 perc_goals = 0
