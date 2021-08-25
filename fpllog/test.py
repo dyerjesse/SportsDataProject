@@ -26,17 +26,18 @@ for row in md1:
 	if row['team'] == select:
 		print(row)
 
+print('\n')
+
+
 lst = []
 gcount = 0
 for row in md1:
-	while row['team'] != '':
-		gcount = gcount + row['goals']
+	while row['team'] not in lst:
 		team = row['team']
 		lst.append(team)
 		break
 
-for k in lst:
-	print(k[0])
 
 print(lst)
+print('\n')
 print(team, gcount)
