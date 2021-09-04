@@ -1,0 +1,646 @@
+[
+  {
+    "name": "Antonio, Michail",
+    "team": "West Ham United",
+    "rank": "1",
+    "goals": "4",
+    "assists": "3"
+  },
+  {
+    "name": "Pogba, Paul",
+    "team": "Manchester United",
+    "rank": "2",
+    "goals": "0",
+    "assists": "5"
+  },
+  {
+    "name": "Salah, Mohamed",
+    "team": "Liverpool FC",
+    "rank": "3",
+    "goals": "2",
+    "assists": "2"
+  },
+  {
+    "name": "Benrahma, Said",
+    "team": "West Ham United",
+    "rank": "3",
+    "goals": "2",
+    "assists": "2"
+  },
+  {
+    "name": "Jesus, Gabriel",
+    "team": "Manchester City",
+    "rank": "3",
+    "goals": "1",
+    "assists": "3"
+  },
+  {
+    "name": "Ings, Danny",
+    "team": "Aston Villa",
+    "rank": "6",
+    "goals": "2",
+    "assists": "1"
+  },
+  {
+    "name": "Vardy, Jamie",
+    "team": "Leicester City",
+    "rank": "6",
+    "goals": "2",
+    "assists": "1"
+  },
+  {
+    "name": "Fernandes, Bruno",
+    "team": "Manchester United",
+    "rank": "6",
+    "goals": "3",
+    "assists": "0"
+  },
+  {
+    "name": "Calvert-Lewin, Dominic",
+    "team": "Everton FC",
+    "rank": "6",
+    "goals": "3",
+    "assists": "0"
+  },
+  {
+    "name": "Fornals, Pablo",
+    "team": "West Ham United",
+    "rank": "6",
+    "goals": "2",
+    "assists": "1"
+  },
+  {
+    "name": "Torres, Ferran",
+    "team": "Manchester City",
+    "rank": "6",
+    "goals": "2",
+    "assists": "1"
+  },
+  {
+    "name": "James, Reece",
+    "team": "Chelsea FC",
+    "rank": "6",
+    "goals": "1",
+    "assists": "2"
+  },
+  {
+    "name": "Greenwood, Mason",
+    "team": "Manchester United",
+    "rank": "6",
+    "goals": "3",
+    "assists": "0"
+  },
+  {
+    "name": "Gross, Pascal",
+    "team": "Brighton & Hove Albion",
+    "rank": "14",
+    "goals": "0",
+    "assists": "2"
+  },
+  {
+    "name": "Doucoure, Abdoulaye",
+    "team": "Everton FC",
+    "rank": "14",
+    "goals": "1",
+    "assists": "1"
+  },
+  {
+    "name": "Son, Heung Min",
+    "team": "Tottenham Hotspur",
+    "rank": "14",
+    "goals": "2",
+    "assists": "0"
+  },
+  {
+    "name": "Wilson, Callum",
+    "team": "Newcastle United",
+    "rank": "14",
+    "goals": "2",
+    "assists": "0"
+  },
+  {
+    "name": "Mahrez, Riyad",
+    "team": "Manchester City",
+    "rank": "14",
+    "goals": "1",
+    "assists": "1"
+  },
+  {
+    "name": "Grealish, Jack",
+    "team": "Manchester City",
+    "rank": "14",
+    "goals": "1",
+    "assists": "1"
+  },
+  {
+    "name": "Bamford, Patrick",
+    "team": "Leeds United",
+    "rank": "14",
+    "goals": "1",
+    "assists": "1"
+  },
+  {
+    "name": "Pereira, Ricardo",
+    "team": "Leicester City",
+    "rank": "14",
+    "goals": "0",
+    "assists": "2"
+  },
+  {
+    "name": "Maupay, Neal",
+    "team": "Brighton & Hove Albion",
+    "rank": "14",
+    "goals": "2",
+    "assists": "0"
+  },
+  {
+    "name": "Saint-Maximin, Allan",
+    "team": "Newcastle United",
+    "rank": "14",
+    "goals": "1",
+    "assists": "1"
+  },
+  {
+    "name": "Gray, Demarai",
+    "team": "Everton FC",
+    "rank": "14",
+    "goals": "2",
+    "assists": "0"
+  },
+  {
+    "name": "Murphy, Jacob",
+    "team": "Newcastle United",
+    "rank": "14",
+    "goals": "1",
+    "assists": "1"
+  },
+  {
+    "name": "Jota, Diogo",
+    "team": "Liverpool FC",
+    "rank": "14",
+    "goals": "2",
+    "assists": "0"
+  },
+  {
+    "name": "Richarlison",
+    "team": "Everton FC",
+    "rank": "14",
+    "goals": "1",
+    "assists": "1"
+  },
+  {
+    "name": "Dennis, Emmanuel",
+    "team": "Watford FC",
+    "rank": "14",
+    "goals": "1",
+    "assists": "1"
+  },
+  {
+    "name": "Gallagher, Conor",
+    "team": "Crystal Palace",
+    "rank": "14",
+    "goals": "2",
+    "assists": "0"
+  },
+  {
+    "name": "Pukki, Teemu",
+    "team": "Norwich City",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Cooper, Liam",
+    "team": "Leeds United",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Ritchie, Matt",
+    "team": "Newcastle United",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Cresswell, Aaron",
+    "team": "West Ham United",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Klich, Mateusz",
+    "team": "Leeds United",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Gundogan, Ilkay",
+    "team": "Manchester City",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Benteke, Christian",
+    "team": "Crystal Palace",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Cleverley, Tom",
+    "team": "Watford FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Albrighton, Marc",
+    "team": "Leicester City",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Townsend, Andros",
+    "team": "Everton FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Westwood, Ashley",
+    "team": "Burnley FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Wood, Chris",
+    "team": "Burnley FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Jansson, Pontus",
+    "team": "Brentford FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Duffy, Shane",
+    "team": "Brighton & Hove Albion",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Lowton, Matthew",
+    "team": "Burnley FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Alonso, Marcos",
+    "team": "Chelsea FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Dallas, Stuart",
+    "team": "Leeds United",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Lukaku, Romelu",
+    "team": "Chelsea FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Ayling, Luke",
+    "team": "Leeds United",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Elyounoussi, Mohamed",
+    "team": "Southampton FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Norgaard, Christian",
+    "team": "Brentford FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Kovacic, Mateo",
+    "team": "Chelsea FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Coufal, Vladimir",
+    "team": "West Ham United",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Varane, Raphael",
+    "team": "Manchester United",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Sterling, Raheem",
+    "team": "Manchester City",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Lindelof, Victor",
+    "team": "Manchester United",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Firmino, Roberto",
+    "team": "Liverpool FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Tarkowski, James",
+    "team": "Burnley FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Laporte, Aymeric",
+    "team": "Manchester City",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Allan",
+    "team": "Everton FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Ward Prowse, James",
+    "team": "Southampton FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Alli, Dele",
+    "team": "Tottenham Hotspur",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Mane, Sadio",
+    "team": "Liverpool FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Fred",
+    "team": "Manchester United",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "McGinn, John",
+    "team": "Aston Villa",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Toney, Ivan",
+    "team": "Brentford FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Mings, Tyrone",
+    "team": "Aston Villa",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Dias, Ruben",
+    "team": "Manchester City",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Tielemans, Youri",
+    "team": "Leicester City",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Iwobi, Alex",
+    "team": "Everton FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Canos, Sergi",
+    "team": "Brentford FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Soucek, Tomas",
+    "team": "West Ham United",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Armstrong, Adam",
+    "team": "Southampton FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Bergwijn, Steven",
+    "team": "Tottenham Hotspur",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "El Ghazi, Anwar",
+    "team": "Aston Villa",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Tsimikas, Kostas",
+    "team": "Liverpool FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Adams, Che",
+    "team": "Southampton FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Alexander-Arnold, Trent",
+    "team": "Liverpool FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Buendia, Emiliano",
+    "team": "Aston Villa",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Pulisic, Christian",
+    "team": "Chelsea FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Rodri",
+    "team": "Manchester City",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Bailey, Leon",
+    "team": "Aston Villa",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Rice, Declan",
+    "team": "West Ham United",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Moder, Jakub",
+    "team": "Brighton & Hove Albion",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Chalobah, Trevoh",
+    "team": "Chelsea FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Mount, Mason",
+    "team": "Chelsea FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Havertz, Kai",
+    "team": "Chelsea FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Raphinha",
+    "team": "Leeds United",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Bissouma, Yves",
+    "team": "Brighton & Hove Albion",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Sarr, Ismaila",
+    "team": "Watford FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "Pinnock, Ethan",
+    "team": "Brentford FC",
+    "rank": "30",
+    "goals": "0",
+    "assists": "1"
+  },
+  {
+    "name": "Hernandez, Cucho",
+    "team": "Watford FC",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  },
+  {
+    "name": "MacAllister, Alexis",
+    "team": "Brighton & Hove Albion",
+    "rank": "30",
+    "goals": "1",
+    "assists": "0"
+  }
+]

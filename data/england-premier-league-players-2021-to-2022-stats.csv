@@ -1,0 +1,466 @@
+full_name,age,birthday,birthday_GMT,league,season,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,nationality,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,assists_home,assists_away,penalty_goals,penalty_misses,clean_sheets_overall,clean_sheets_home,clean_sheets_away,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,red_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,conceded_per_90_overall,min_per_conceded_overall,min_per_match,min_per_card_overall,min_per_assist_overall,cards_per_90_overall,rank_in_league_top_attackers,rank_in_league_top_midfielders,rank_in_league_top_defenders,rank_in_club_top_scorer
+Aaron Anthony Connolly,21,949017600,2000/01/28,Premier League,2021/2022,Forward,Brighton & Hove Albion,44,44,0,Republic of Ireland,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,-1,-1,-1,6
+Aaron Cresswell,31,629683200,1989/12/15,Premier League,2021/2022,Defender,West Ham United,270,180,90,England,3,2,1,1,0,1,0,0,0,0,0,0,0,0,5,3,2,0,0,0.33,0,0.33,0,1,270,1.67,54,90,0,0,0,-1,-1,-1,4
+Aaron Lennon,34,545529600,1987/04/16,Premier League,2021/2022,Midfielder,Burnley,27,27,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,3.33,27,27,27,0,3.33,-1,-1,-1,16
+Aaron Ramsdale,23,895104000,1998/05/14,Premier League,2021/2022,Goalkeeper,Arsenal,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Aaron Ramsey,0,0,1970/01/01,Premier League,2021/2022,Midfielder,Aston Villa,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Aaron Wan-Bissaka,23,880502400,1997/11/26,Premier League,2021/2022,Midfielder,Manchester United,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0.67,135,90,0,0,0,-1,-1,-1,14
+Abdoulaye Doucouré,28,725846400,1993/01/01,Premier League,2021/2022,Midfielder,Everton,270,90,180,France,3,1,2,1,1,0,1,0,1,0,0,1,0,1,3,1,2,2,0,0.67,0.33,0.33,1,0,270,1,90,90,135,270,0.67,-1,-1,-1,3
+Adam Armstrong,24,855532800,1997/02/10,Premier League,2021/2022,Forward,Southampton,270,90,180,England,3,1,2,1,0,1,0,0,0,0,0,0,0,0,5,1,4,0,0,0.33,0,0.33,0,0.5,270,1.67,54,90,0,0,0,-1,-1,-1,1
+Adam David Lallana,33,579225600,1988/05/10,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,183,139,44,England,3,2,1,0,0,0,0,0,0,0,0,1,1,0,2,2,0,0,0,0,0,0,0,0,0,0.98,92,61,0,0,0,-1,-1,-1,9
+Adam Forshaw,29,686880000,1991/10/08,Premier League,2021/2022,Midfielder,Leeds United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Adam Masina,27,757468800,1994/01/02,Premier League,2021/2022,Defender,Watford,270,90,180,Italy,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,16
+Adam Uche Idah,20,984268800,2001/03/11,Premier League,2021/2022,Forward,Norwich City,24,24,0,Republic of Ireland,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,-1,-1,-1,7
+Adam Webster,26,789177600,1995/01/04,Premier League,2021/2022,Defender,Brighton & Hove Albion,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,1,1,0,3,2,1,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,11
+Adama Traoré Diarra,25,822528000,1996/01/25,Premier League,2021/2022,Midfielder,Wolverhampton Wanderers,267,177,90,Spain,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.01,89,89,0,0,0,-1,-1,-1,2
+Adrián San Miguel del Castillo,34,536630400,1987/01/03,Premier League,2021/2022,Goalkeeper,Liverpool,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ainsley Maitland-Niles,23,872812800,1997/08/29,Premier League,2021/2022,Midfielder,Arsenal,19,0,19,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,4.74,19,19,0,0,0,-1,-1,-1,6
+Albert-Mboyo Sambi Lokonga,21,940550400,1999/10/22,Premier League,2021/2022,Forward,Arsenal,180,90,90,Belgium,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,2,45,90,180,0,0.5,-1,-1,-1,16
+Alex Iwobi,25,831081600,1996/05/03,Premier League,2021/2022,Forward,Everton,116,20,96,Nigeria,3,1,2,0,0,0,1,1,0,0,0,1,0,1,2,0,2,0,0,0.78,0.78,0,0,0,0,1.55,58,39,0,116,0,-1,-1,-1,12
+Alex McCarthy,31,628646400,1989/12/03,Premier League,2021/2022,Goalkeeper,Southampton,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,10
+Alex Oxlade-Chamberlain,27,745372800,1993/08/15,Premier League,2021/2022,Midfielder,Liverpool,61,0,61,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,-1,-1,-1,12
+Alexandre Lacazette,30,675388800,1991/05/28,Premier League,2021/2022,Forward,Arsenal,31,0,31,France,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2.9,31,31,0,0,0,-1,-1,-1,22
+Alexis Mac Allister,22,914457600,1998/12/24,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,150,136,14,Argentina,3,2,1,1,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0.6,0,0.6,0,6.43,150,0.6,150,50,0,0,0,-1,-1,-1,3
+Alisson Becker,28,717984000,1992/10/02,Premier League,2021/2022,Goalkeeper,Liverpool,270,180,90,Brazil,3,2,1,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0.33,270,90,0,0,0,-1,-1,-1,9
+Allan,30,663292800,1991/01/08,Premier League,2021/2022,Midfielder,Everton,270,90,180,Brazil,3,1,2,0,0,0,1,0,1,0,0,1,0,1,3,1,2,0,0,0.33,0.33,0,0,0,0,1,90,90,0,270,0,-1,-1,-1,11
+Allan Saint-Maximin,24,858124800,1997/03/12,Premier League,2021/2022,Midfielder,Newcastle United,270,180,90,France,3,2,1,1,1,0,1,1,0,0,0,0,0,0,7,5,2,1,0,0.67,0.33,0.33,0.5,0,270,2.33,39,90,270,270,0.33,-1,-1,-1,2
+Alphonse Areola,28,730771200,1993/02/27,Premier League,2021/2022,Goalkeeper,West Ham United,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Álvaro Fernández Llorente,23,892425600,1998/04/13,Premier League,2021/2022,Goalkeeper,Brentford,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Andi Zeqiri,22,930009600,1999/06/22,Premier League,2021/2022,Forward,Brighton & Hove Albion,0,0,0,Switzerland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+André Filipe Tavares Gomes,28,743990400,1993/07/30,Premier League,2021/2022,Midfielder,Everton,9,0,9,Portugal,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,-1,-1,-1,16
+Andreas Christensen,25,829094400,1996/04/10,Premier League,2021/2022,Defender,Chelsea,270,90,180,Denmark,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.33,270,90,0,0,0,-1,-1,-1,16
+Andreas Pereira,25,820454400,1996/01/01,Premier League,2021/2022,Midfielder,Manchester United,0,0,0,Brazil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Andrew Lonergan,37,435369600,1983/10/19,Premier League,2021/2022,Goalkeeper,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Andrew Omobamidele,19,1024790400,2002/06/23,Premier League,2021/2022,Defender,Norwich City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Andrew Robertson,27,763344000,1994/03/11,Premier League,2021/2022,Defender,Liverpool,86,86,0,Scotland,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.05,86,86,0,0,0,-1,-1,-1,17
+Andriy Yarmolenko,31,625104000,1989/10/23,Premier League,2021/2022,Forward,West Ham United,4,4,0,Ukraine,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-1,-1,13
+Andros Townsend,30,679622400,1991/07/16,Premier League,2021/2022,Midfielder,Everton,175,70,105,England,3,1,2,0,0,0,1,1,0,0,0,1,0,1,1,1,0,0,0,0.51,0.51,0,0,0,0,0.51,175,58,0,175,0,-1,-1,-1,10
+Angelo Ogbonna,33,580348800,1988/05/23,Premier League,2021/2022,Defender,West Ham United,270,180,90,Italy,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,7
+Angus Gunn,25,822268800,1996/01/22,Premier League,2021/2022,Goalkeeper,Norwich City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Anthony Gordon,20,982972800,2001/02/24,Premier League,2021/2022,Midfielder,Everton,1,1,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-1,-1,14
+Anthony Martial,25,818121600,1995/12/05,Premier League,2021/2022,Forward,Manchester United,92,15,77,France,3,1,2,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0.98,92,31,0,0,0,-1,-1,-1,8
+Antonio Rüdiger,28,731116800,1993/03/03,Premier League,2021/2022,Defender,Chelsea,270,90,180,Germany,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,1,0,0,0,0,0,0,0,0.33,270,90,270,0,0.33,-1,-1,-1,17
+Anwar El Ghazi,26,799459200,1995/05/03,Premier League,2021/2022,Forward,Aston Villa,240,180,60,Netherlands,3,2,1,1,1,0,0,0,0,1,0,1,1,0,3,1,2,1,0,0.38,0,0.38,0.5,0,240,1.13,80,80,240,0,0.38,-1,-1,-1,3
+Armando Broja,19,1000080000,2001/09/10,Premier League,2021/2022,Forward,Southampton,19,0,19,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,-1,-1,-1,18
+Arthur Okonkwo,19,999993600,2001/09/09,Premier League,2021/2022,Goalkeeper,Arsenal,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ashley Barnes,31,625708800,1989/10/30,Premier League,2021/2022,Forward,Burnley,189,99,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,1.9,47,63,189,0,0.48,-1,-1,-1,12
+Ashley Fletcher,25,812592000,1995/10/02,Premier League,2021/2022,Forward,Watford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ashley Westwood,31,638928000,1990/04/01,Premier League,2021/2022,Midfielder,Burnley,180,180,0,England,2,2,0,0,0,0,1,1,0,0,0,0,0,0,3,3,0,0,0,0.5,0.5,0,0,0,0,1.5,60,90,0,180,0,-1,-1,-1,9
+Ashley Young,36,489715200,1985/07/09,Premier League,2021/2022,Midfielder,Aston Villa,259,169,90,England,3,2,1,0,0,0,0,0,0,0,0,1,1,0,4,1,3,0,0,0,0,0,0,0,0,1.39,65,86,0,0,0,-1,-1,-1,14
+Asmir Begović,34,551145600,1987/06/20,Premier League,2021/2022,Goalkeeper,Everton,0,0,0,Bosnia and Herzegovina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Axel Tuanzebe,23,879465600,1997/11/14,Premier League,2021/2022,Defender,Aston Villa,92,92,0,England,2,2,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0.98,92,46,0,0,0,-1,-1,-1,7
+Aymeric Laporte,27,769996800,1994/05/27,Premier League,2021/2022,Defender,Manchester City,180,180,0,France,2,2,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0.5,0,0.5,0.5,0,180,0,0,90,0,0,0,-1,-1,-1,4
+Ayoze Perez,28,743904000,1993/07/29,Premier League,2021/2022,Forward,Leicester City,102,62,40,Spain,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0.88,102,51,51,0,1.76,-1,-1,-1,4
+Bakayo Sako,0,0,1970/01/01,Premier League,2021/2022,Midfielder,Arsenal,138,61,77,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,6,2,4,0,0,0,0,0,0,0,0,3.91,23,46,0,0,0,-1,-1,-1,11
+Bali Mumba,0,0,1970/01/01,Premier League,2021/2022,Defender,Norwich City,44,0,44,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,6.14,15,44,0,0,0,-1,-1,-1,17
+Ben Chilwell,24,851126400,1996/12/21,Premier League,2021/2022,Defender,Chelsea,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ben Davies,28,735609600,1993/04/24,Premier League,2021/2022,Defender,Tottenham Hotspur,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ben Foster,38,418176000,1983/04/03,Premier League,2021/2022,Goalkeeper,Watford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ben Gibson,28,727056000,1993/01/15,Premier League,2021/2022,Defender,Norwich City,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,10,5,5,0,0,0,0,0,0,0,0,3.33,27,90,0,0,0,-1,-1,-1,15
+Ben Mee,31,622339200,1989/09/21,Premier League,2021/2022,Defender,Burnley,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,1,0,0,0,0,0,0,0,1.67,54,90,270,0,0.33,-1,-1,-1,5
+Ben White,23,876268800,1997/10/08,Premier League,2021/2022,Defender,Arsenal,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,19
+Benjamin Johnson,21,948672000,2000/01/24,Premier League,2021/2022,Forward,West Ham United,0,0,0,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Benjamin Mendy,27,774403200,1994/07/17,Premier League,2021/2022,Defender,Manchester City,79,0,79,France,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.14,79,79,0,0,0,-1,-1,-1,18
+Benjamin Woodburn,21,939945600,1999/10/15,Premier League,2021/2022,Forward,Liverpool,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Bernardo Silva,27,776476800,1994/08/10,Premier League,2021/2022,Midfielder,Manchester City,148,148,0,Portugal,2,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,-1,-1,-1,10
+Bernd Leno,29,699667200,1992/03/04,Premier League,2021/2022,Goalkeeper,Arsenal,270,90,180,Germany,3,1,2,0,0,0,0,0,0,0,0,0,0,0,9,2,7,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,1
+Bertrand Traoré,25,810345600,1995/09/06,Premier League,2021/2022,Forward,Aston Villa,18,0,18,Burkina Faso,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,-1,-1,-1,11
+Billy Gilmour,20,992217600,2001/06/11,Premier League,2021/2022,Midfielder,Norwich City,259,169,90,Scotland,3,2,1,0,0,0,0,0,0,0,0,0,0,0,10,5,5,0,0,0,0,0,0,0,0,3.47,26,86,0,0,0,-1,-1,-1,8
+Bobby Thomas,0,0,1970/01/01,Premier League,2021/2022,Defender,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Boubakary Soumaré,22,920073600,1999/02/27,Premier League,2021/2022,Midfielder,Leicester City,37,28,9,France,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,2.43,37,19,0,0,0,-1,-1,-1,8
+Brandon Williams,20,967939200,2000/09/03,Premier League,2021/2022,Defender,Norwich City,90,90,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,2
+Bruno Miguel Borges Fernandes,26,778982400,1994/09/08,Premier League,2021/2022,Midfielder,Manchester United,270,90,180,Portugal,3,1,2,3,3,0,0,0,0,0,0,1,0,1,2,1,1,2,0,1,0,1,3,0,90,0.67,135,90,135,0,0.67,-1,-1,-1,2
+Bryan Gil Salvatierra,20,981849600,2001/02/11,Premier League,2021/2022,Forward,Tottenham Hotspur,2,2,0,Spain,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,-1,-1,14
+Bryan Mbeumo,22,933984000,1999/08/07,Premier League,2021/2022,Forward,Brentford,243,86,157,France,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.37,243,81,0,0,0,-1,-1,-1,11
+Caglar Söyüncü,25,832809600,1996/05/23,Premier League,2021/2022,Defender,Leicester City,270,90,180,Turkey,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,16
+Callum Hudson-Odoi,20,973555200,2000/11/07,Premier League,2021/2022,Midfielder,Chelsea,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Callum Wilson,29,699148800,1992/02/27,Premier League,2021/2022,Forward,Newcastle United,244,154,90,England,3,2,1,2,2,0,0,0,0,0,0,0,0,0,6,4,2,1,0,0.74,0,0.74,1.17,0,122,2.21,41,81,244,0,0.37,-1,-1,-1,1
+Calum Chambers,26,790560000,1995/01/20,Premier League,2021/2022,Defender,Arsenal,171,0,171,England,2,0,2,0,0,0,0,0,0,0,0,0,0,0,7,0,7,0,0,0,0,0,0,0,0,3.68,24,86,0,0,0,-1,-1,-1,21
+Cameron Archer,0,0,1970/01/01,Premier League,2021/2022,Forward,Aston Villa,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Caoimhin Kelleher,22,911779200,1998/11/23,Premier League,2021/2022,Goalkeeper,Liverpool,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Carney Chukwuemeka,0,0,1970/01/01,Premier League,2021/2022,Midfielder,Aston Villa,63,63,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.43,63,63,0,0,0,-1,-1,-1,9
+Cedric Soares,29,683596800,1991/08/31,Premier League,2021/2022,Defender,Arsenal,180,90,90,Portugal,2,1,1,0,0,0,0,0,0,0,0,0,0,0,7,2,5,1,0,0,0,0,0,0,0,3.5,26,90,180,0,0.5,-1,-1,-1,7
+Cesar Azpilicueta,31,620265600,1989/08/28,Premier League,2021/2022,Defender,Chelsea,247,67,180,Spain,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.36,247,82,0,0,0,-1,-1,-1,12
+Charlie Cresswell,18,1039219200,2002/12/07,Premier League,2021/2022,Defender,Leeds United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Charlie Goode,26,807408000,1995/08/03,Premier League,2021/2022,Defender,Brentford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Charlie Taylor,27,748310400,1993/09/18,Premier League,2021/2022,Defender,Burnley,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,6
+Che Adams,25,837216000,1996/07/13,Premier League,2021/2022,Midfielder,Southampton,251,90,161,England,3,1,2,0,0,0,1,0,1,0,0,0,0,0,5,1,4,0,0,0.36,0.36,0,0,0,0,1.79,50,84,0,251,0,-1,-1,-1,4
+Cheikhou Kouyaté,31,630201600,1989/12/21,Premier League,2021/2022,Midfielder,Crystal Palace,270,90,180,Senegal,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,8
+Chem Campbell,18,1041206400,2002/12/30,Premier League,2021/2022,Midfielder,Wolverhampton Wanderers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Chris Wood,29,692064000,1991/12/07,Premier League,2021/2022,Forward,Burnley,255,180,75,New Zealand,3,2,1,1,1,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0.35,0,0.35,0.5,0,255,1.76,51,85,0,0,0,-1,-1,-1,2
+Christian Benteke,30,660182400,1990/12/03,Premier League,2021/2022,Forward,Crystal Palace,213,90,123,Belgium,3,1,2,0,0,0,1,0,1,0,0,1,1,0,3,0,3,1,0,0.42,0.42,0,0,0,0,1.27,71,71,213,213,0.42,-1,-1,-1,13
+Christian Kabasele,30,667353600,1991/02/24,Premier League,2021/2022,Defender,Watford,180,90,90,Belgium,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,-1,-1,-1,18
+Christian Marques,18,1042588800,2003/01/15,Premier League,2021/2022,Defender,Wolverhampton Wanderers,0,0,0,Portugal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Christian Nørgaard,27,763257600,1994/03/10,Premier League,2021/2022,Midfielder,Brentford,270,90,180,Denmark,3,1,2,1,1,0,0,0,0,0,0,2,1,1,1,0,1,2,0,0.33,0,0.33,1,0,270,0.33,270,90,135,0,0.67,-1,-1,-1,2
+Christian Pulisic,22,906076800,1998/09/18,Premier League,2021/2022,Midfielder,Chelsea,82,82,0,USA,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1.1,0,1.1,1.1,0,82,0,0,82,0,0,0,-1,-1,-1,1
+Christoph Zimmermann,28,726796800,1993/01/12,Premier League,2021/2022,Defender,Norwich City,0,0,0,Germany,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Christos Tzolis,19,1012348800,2002/01/30,Premier League,2021/2022,Forward,Norwich City,0,0,0,Greece,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ciaran Clark,31,622771200,1989/09/26,Premier League,2021/2022,Defender,Newcastle United,90,90,0,Republic of Ireland,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,4,23,90,0,0,0,-1,-1,-1,16
+Cody Drameh,0,0,1970/01/01,Premier League,2021/2022,Midfielder,Leeds United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Cole Palmer,19,1020643200,2002/05/06,Premier League,2021/2022,Defender,Manchester City,21,21,0,England,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,-1,-1,-1,19
+Conor Coady,28,730598400,1993/02/25,Premier League,2021/2022,Midfielder,Wolverhampton Wanderers,267,177,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.01,89,89,0,0,0,-1,-1,-1,16
+Conor Coventry,21,953942400,2000/03/25,Premier League,2021/2022,Midfielder,West Ham United,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Conor Gallagher,21,949795200,2000/02/06,Premier League,2021/2022,Midfielder,Crystal Palace,180,90,90,England,2,1,1,2,0,2,0,0,0,0,0,1,1,0,2,0,2,0,0,1,0,1,0,2,90,1,90,90,0,0,0,-1,-1,-1,1
+Conor Hourihane,30,665452800,1991/02/02,Premier League,2021/2022,Midfielder,Aston Villa,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Craig Cathcart,32,602726400,1989/02/06,Premier League,2021/2022,Defender,Watford,206,90,116,Northern Ireland,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,1.75,52,69,0,0,0,-1,-1,-1,11
+Craig Dawson,31,641952000,1990/05/06,Premier League,2021/2022,Defender,West Ham United,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,8
+Cristian Gabriel Romero,23,893635200,1998/04/27,Premier League,2021/2022,Defender,Tottenham Hotspur,0,0,0,Argentina,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Crysencio Summerville,19,1004400000,2001/10/30,Premier League,2021/2022,Forward,Leeds United,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Curtis Jones,20,980812800,2001/01/30,Premier League,2021/2022,Midfielder,Liverpool,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Damián Emiliano Martínez,28,715392000,1992/09/02,Premier League,2021/2022,Goalkeeper,Aston Villa,270,180,90,Argentina,3,2,1,0,0,0,0,0,0,0,0,1,1,0,4,1,3,1,0,0,0,0,0,0,0,1.33,68,90,270,0,0.33,-1,-1,-1,12
+Dan Gosling,31,633830400,1990/02/01,Premier League,2021/2022,Midfielder,Watford,21,21,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4.29,21,21,0,0,0,-1,-1,-1,9
+Dane Scarlett,0,0,1970/01/01,Premier League,2021/2022,Forward,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Daniel Amartey,26,787968000,1994/12/21,Premier League,2021/2022,Midfielder,Leicester City,270,90,180,Ghana,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,17
+Daniel Bachmann,27,773712000,1994/07/09,Premier League,2021/2022,Goalkeeper,Watford,270,90,180,Austria,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,10
+Daniel Castelo Podence,25,814233600,1995/10/21,Premier League,2021/2022,Forward,Wolverhampton Wanderers,20,20,0,Portugal,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4.5,20,20,0,0,0,-1,-1,-1,17
+Daniel James,23,879120000,1997/11/10,Premier League,2021/2022,Midfielder,Manchester United,128,75,53,Wales,2,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0.7,128,64,0,0,0,-1,-1,-1,11
+Daniel William John Ings,29,711849600,1992/07/23,Premier League,2021/2022,Forward,Aston Villa,270,180,90,England,3,2,1,2,1,1,1,1,0,1,0,1,1,0,4,1,3,1,0,1,0.33,0.67,0.5,1,135,1.33,68,90,270,270,0.33,-1,-1,-1,1
+Danny Rose,31,646876800,1990/07/02,Premier League,2021/2022,Defender,Watford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Danny Ward,28,740707200,1993/06/22,Premier League,2021/2022,Goalkeeper,Leicester City,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Danny Welbeck,30,659577600,1990/11/26,Premier League,2021/2022,Forward,Brighton & Hove Albion,31,31,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,-1,-1,-1,18
+David de Gea,30,657936000,1990/11/07,Premier League,2021/2022,Goalkeeper,Manchester United,270,90,180,Spain,3,1,2,0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0.67,135,90,0,0,0,-1,-1,-1,4
+David Raya Martin,25,811123200,1995/09/15,Premier League,2021/2022,Goalkeeper,Brentford,270,90,180,Spain,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.33,270,90,0,0,0,-1,-1,-1,10
+Davinson Sánchez Mina,25,834537600,1996/06/12,Premier League,2021/2022,Defender,Tottenham Hotspur,270,180,90,Colombia,3,2,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,90,270,0,0.33,-1,-1,-1,4
+Declan Rice,22,916272000,1999/01/14,Premier League,2021/2022,Midfielder,West Ham United,270,180,90,Republic of Ireland,3,2,1,0,0,0,1,1,0,0,0,0,0,0,5,3,2,1,0,0.33,0.33,0,0,0,0,1.67,54,90,270,270,0.33,-1,-1,-1,10
+Dele Alli,25,829180800,1996/04/11,Premier League,2021/2022,Midfielder,Tottenham Hotspur,270,180,90,England,3,2,1,1,0,1,0,0,0,1,0,3,2,1,0,0,0,1,0,0.33,0,0.33,0,1,270,0,0,90,270,0,0.33,-1,-1,-1,2
+Demarai Gray,25,835920000,1996/06/28,Premier League,2021/2022,Midfielder,Everton,247,83,164,England,3,1,2,2,0,2,0,0,0,0,0,1,0,1,3,1,2,0,0,0.73,0,0.73,0,1.1,124,1.09,82,82,0,0,0,-1,-1,-1,2
+Dennis Praet,27,768873600,1994/05/14,Premier League,2021/2022,Midfielder,Leicester City,0,0,0,Belgium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Diego Llorente,27,745459200,1993/08/16,Premier League,2021/2022,Defender,Leeds United,65,0,65,Spain,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.38,65,65,0,0,0,-1,-1,-1,17
+Dimitris Giannoulis,25,813888000,1995/10/17,Premier League,2021/2022,Midfielder,Norwich City,136,90,46,Greece,2,1,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,3.31,27,68,0,0,0,-1,-1,-1,14
+Diogo José Teixeira da Silva,24,849657600,1996/12/04,Premier League,2021/2022,Midfielder,Liverpool,189,128,61,Portugal,3,2,1,2,1,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0.95,0,0.95,0.7,1.48,95,0,0,63,0,0,0,-1,-1,-1,2
+Divock Origi,26,798163200,1995/04/18,Premier League,2021/2022,Forward,Liverpool,0,0,0,Belgium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dominic Calvert-Lewin,24,858470400,1997/03/16,Premier League,2021/2022,Forward,Everton,249,90,159,England,3,1,2,3,1,2,0,0,0,2,0,1,0,1,3,1,2,0,0,1.08,0,1.08,1,1.13,83,1.08,83,83,0,0,0,-1,-1,-1,1
+Dominic Thompson,21,964569600,2000/07/26,Premier League,2021/2022,Defender,Brentford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Donny van de Beek,24,861321600,1997/04/18,Premier League,2021/2022,Midfielder,Manchester United,0,0,0,Netherlands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Douglas Luiz,23,894672000,1998/05/09,Premier League,2021/2022,Midfielder,Aston Villa,178,178,0,Brazil,2,2,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0.51,178,89,178,0,0.51,-1,-1,-1,6
+Dwight Gayle,30,656121600,1990/10/17,Premier League,2021/2022,Forward,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Dwight McNeil,21,943228800,1999/11/22,Premier League,2021/2022,Forward,Burnley,259,169,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,1.74,52,86,0,0,0,-1,-1,-1,11
+Ederson,27,745545600,1993/08/17,Premier League,2021/2022,Goalkeeper,Manchester City,270,180,90,Brazil,3,2,1,0,0,0,0,0,0,0,0,2,2,0,1,0,1,0,0,0,0,0,0,0,0,0.33,270,90,0,0,0,-1,-1,-1,12
+Edinson Cavani,34,540259200,1987/02/14,Premier League,2021/2022,Forward,Manchester United,37,0,37,Uruguay,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,-1,-1,-1,17
+Edouard Mendy,29,699408000,1992/03/01,Premier League,2021/2022,Goalkeeper,Chelsea,270,90,180,France,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,1,0,0,0,0,0,0,0,0.33,270,90,270,0,0.33,-1,-1,-1,10
+Eldin Jakupovic,36,465523200,1984/10/02,Premier League,2021/2022,Goalkeeper,Leicester City,0,0,0,Switzerland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Emerson Palmieri dos Santos,27,775872000,1994/08/03,Premier League,2021/2022,Defender,Chelsea,4,4,0,Italy,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,9
+Emil Krafth,27,775785600,1994/08/02,Premier League,2021/2022,Defender,Newcastle United,84,84,0,Sweden,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,4.29,21,84,0,0,0,-1,-1,-1,15
+Emile Smith Rowe,21,964742400,2000/07/28,Premier League,2021/2022,Midfielder,Arsenal,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,9,2,7,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,17
+Emiliano Buendía,24,851472000,1996/12/25,Premier League,2021/2022,Midfielder,Aston Villa,248,176,72,Argentina,3,2,1,1,1,0,0,0,0,0,0,1,1,0,4,1,3,1,0,0.36,0,0.36,0.51,0,248,1.45,62,83,248,0,0.36,-1,-1,-1,4
+Emmanuel Bonaventure Dennis,23,879552000,1997/11/15,Premier League,2021/2022,Forward,Watford,246,66,180,Nigeria,3,1,2,1,1,0,1,1,0,0,0,0,0,0,3,0,3,1,0,0.73,0.37,0.37,1.36,0,246,1.1,82,82,246,246,0.37,-1,-1,-1,1
+Enock Mwepu,23,883612800,1998/01/01,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,64,18,46,Zambia,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,1.41,64,32,64,0,1.41,-1,-1,-1,13
+Eric Dier,27,758592000,1994/01/15,Premier League,2021/2022,Midfielder,Tottenham Hotspur,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,9
+Erik Pieters,33,586915200,1988/08/07,Premier League,2021/2022,Defender,Burnley,11,0,11,Netherlands,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,-1,-1,-1,15
+Ethan Pinnock,28,738633600,1993/05/29,Premier League,2021/2022,Defender,Brentford,270,90,180,England,3,1,2,0,0,0,1,1,0,0,0,2,1,1,1,0,1,0,0,0.33,0.33,0,0,0,0,0.33,270,90,0,270,0,-1,-1,-1,15
+Ezri Konsa Ngoyo,23,891820800,1998/04/06,Premier League,2021/2022,Midfielder,Aston Villa,269,179,90,England,3,2,1,0,0,0,0,0,0,0,0,1,1,0,4,1,3,0,0,0,0,0,0,0,0,1.34,67,90,0,0,0,-1,-1,-1,17
+Fabian Delph,31,627609600,1989/11/21,Premier League,2021/2022,Midfielder,Everton,7,0,7,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,-1,-1,-1,15
+Fabian Schär,29,693187200,1991/12/20,Premier League,2021/2022,Defender,Newcastle United,180,90,90,Switzerland,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,2,0,0,0,0,0,0,0,1.5,60,90,90,0,1,-1,-1,-1,4
+Fabinho,27,751334400,1993/10/23,Premier League,2021/2022,Midfielder,Liverpool,119,90,29,Brazil,2,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0.76,119,60,0,0,0,-1,-1,-1,8
+Fábio Daniel Soares Silva,19,1027036800,2002/07/19,Premier League,2021/2022,Forward,Wolverhampton Wanderers,9,9,0,Portugal,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,-1,-1,-1,5
+Federico Fernández,32,604022400,1989/02/21,Premier League,2021/2022,Defender,Newcastle United,258,180,78,Argentina,3,2,1,0,0,0,0,0,0,0,0,0,0,0,7,5,2,0,0,0,0,0,0,0,0,2.44,37,86,0,0,0,-1,-1,-1,10
+Fernando Luiz Rosa,36,484012800,1985/05/04,Premier League,2021/2022,Midfielder,Manchester City,90,0,90,Brazil,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,15
+Fernando Marçal,32,603849600,1989/02/19,Premier League,2021/2022,Defender,Wolverhampton Wanderers,270,180,90,Brazil,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,10
+Ferrán Torres García,21,951782400,2000/02/29,Premier League,2021/2022,Forward,Manchester City,241,151,90,Spain,3,2,1,2,2,0,1,1,0,0,0,2,2,0,1,0,1,0,0,1.12,0.37,0.75,1.19,0,121,0.37,241,80,0,241,0,-1,-1,-1,1
+Finley Stevens,0,0,1970/01/01,Premier League,2021/2022,Midfielder,Brentford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Florin Andone,28,734486400,1993/04/11,Premier League,2021/2022,Forward,Brighton & Hove Albion,0,0,0,Romania,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Folarin Balogun,20,994118400,2001/07/03,Premier League,2021/2022,Midfielder,Arsenal,70,11,59,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.29,70,35,0,0,0,-1,-1,-1,14
+Francisco António Machado Mota de Castro Trincão,21,946425600,1999/12/29,Premier League,2021/2022,Forward,Wolverhampton Wanderers,240,154,86,Portugal,3,2,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0.75,120,80,0,0,0,-1,-1,-1,8
+Francisco Sierralta Carvallo,24,862876800,1997/05/06,Premier League,2021/2022,Forward,Watford,90,0,90,Chile,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,6
+Fraser Forster,33,574560000,1988/03/17,Premier League,2021/2022,Goalkeeper,Southampton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Freddie Woodman,24,857433600,1997/03/04,Premier League,2021/2022,Goalkeeper,Newcastle United,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,7,5,2,0,0,0,0,0,0,0,0,2.33,39,90,0,0,0,-1,-1,-1,9
+Frédéric Guilbert,26,788227200,1994/12/24,Premier League,2021/2022,Defender,Aston Villa,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Frederico Rodrigues Santos,28,731289600,1993/03/05,Premier League,2021/2022,Midfielder,Manchester United,256,90,166,Brazil,3,1,2,1,1,0,0,0,0,0,0,1,0,1,2,1,1,1,0,0.35,0,0.35,1,0,256,0.7,128,85,256,0,0.35,-1,-1,-1,3
+Gabriel Jesus,24,860025600,1997/04/03,Premier League,2021/2022,Forward,Manchester City,171,151,20,Brazil,3,2,1,1,1,0,3,3,0,0,0,2,2,0,0,0,0,0,0,2.11,1.58,0.53,0.6,0,171,0,0,57,0,57,0,-1,-1,-1,3
+Gabriel Teodoro Martinelli Silva,20,992822400,2001/06/18,Premier League,2021/2022,Midfielder,Arsenal,150,79,71,Brazil,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.8,50,75,0,0,0,-1,-1,-1,13
+Giovani Lo Celso,25,829008000,1996/04/09,Premier League,2021/2022,Midfielder,Tottenham Hotspur,36,13,23,Argentina,2,1,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,-1,-1,-1,12
+Granit Xhaka,28,717552000,1992/09/27,Premier League,2021/2022,Midfielder,Arsenal,215,90,125,Switzerland,3,1,2,0,0,0,0,0,0,0,0,0,0,0,6,2,4,1,1,0,0,0,0,0,0,2.51,36,72,108,0,0.84,-1,-1,-1,18
+Grant Hanley,29,690595200,1991/11/20,Premier League,2021/2022,Defender,Norwich City,270,180,90,Scotland,3,2,1,0,0,0,0,0,0,0,0,0,0,0,10,5,5,0,0,0,0,0,0,0,0,3.33,27,90,0,0,0,-1,-1,-1,16
+Hakim Ziyech,28,732499200,1993/03/19,Premier League,2021/2022,Midfielder,Chelsea,8,0,8,Morocco,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,-1,-1,-1,18
+Hamza Choudhury,23,875664000,1997/10/01,Premier League,2021/2022,Midfielder,Leicester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Harry Kane,28,743817600,1993/07/28,Premier League,2021/2022,Forward,Tottenham Hotspur,108,90,18,England,2,1,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,54,54,0,1.67,-1,-1,-1,15
+Harry Maguire,28,731289600,1993/03/05,Premier League,2021/2022,Defender,Manchester United,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0.67,135,90,270,0,0.33,-1,-1,-1,16
+Harry Winks,25,823219200,1996/02/02,Premier League,2021/2022,Midfielder,Tottenham Hotspur,0,0,0,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Harvey Elliot,0,0,1970/01/01,Premier League,2021/2022,Forward,Liverpool,187,180,7,England,3,2,1,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0.48,187,62,0,0,0,-1,-1,-1,7
+Harvey Lewis Barnes,23,881625600,1997/12/09,Premier League,2021/2022,Midfielder,Leicester City,203,72,131,England,3,1,2,0,0,0,0,0,0,0,0,1,1,0,3,0,3,0,0,0,0,0,0,0,0,1.33,68,68,0,0,0,-1,-1,-1,12
+Hayden Roberts,0,0,1970/01/01,Premier League,2021/2022,Defender,Brighton & Hove Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Hector Bellerin,26,795571200,1995/03/19,Premier League,2021/2022,Defender,Arsenal,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Héctor Junior Firpo Adames,24,840672000,1996/08/22,Premier League,2021/2022,Defender,Leeds United,104,60,44,Dominican Republic,2,1,1,0,0,0,0,0,0,0,0,0,0,0,6,2,4,0,0,0,0,0,0,0,0,5.19,17,52,0,0,0,-1,-1,-1,10
+Hélder Wander Sousa Azevedo Costa,27,758332800,1994/01/12,Premier League,2021/2022,Midfielder,Leeds United,20,0,20,Portugal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,-1,-1,-1,9
+Heung-Min Son,29,710553600,1992/07/08,Premier League,2021/2022,Forward,Tottenham Hotspur,250,178,72,South Korea,3,2,1,2,2,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0.72,0,0.72,1.01,0,125,0,0,83,0,0,0,-1,-1,-1,1
+Hugo Lloris,34,535939200,1986/12/26,Premier League,2021/2022,Goalkeeper,Tottenham Hotspur,270,180,90,France,3,2,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,3
+Ibrahim Halil Dervisoglu,21,944611200,1999/12/08,Premier League,2021/2022,Forward,Brentford,0,0,0,Turkey,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ibrahima Diallo,22,920851200,1999/03/08,Premier League,2021/2022,Midfielder,Southampton,33,20,13,France,3,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2.73,33,11,0,0,0,-1,-1,-1,9
+Ibrahima Konaté,22,927590400,1999/05/25,Premier League,2021/2022,Defender,Liverpool,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+İlkay Gündoğan,30,656726400,1990/10/24,Premier League,2021/2022,Midfielder,Manchester City,249,159,90,Germany,3,2,1,1,1,0,0,0,0,0,0,2,2,0,1,0,1,1,0,0.36,0,0.36,0.57,0,249,0.36,249,83,249,0,0.36,-1,-1,-1,6
+Illan Meslier,21,951955200,2000/03/02,Premier League,2021/2022,Goalkeeper,Leeds United,270,90,180,France,3,1,2,0,0,0,0,0,0,0,0,0,0,0,8,2,6,0,0,0,0,0,0,0,0,2.67,34,90,0,0,0,-1,-1,-1,5
+Imran Louza,22,925516800,1999/05/01,Premier League,2021/2022,Midfielder,Watford,46,0,46,France,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,3.91,23,46,0,0,0,-1,-1,-1,5
+Isaac Hayden,26,795830400,1995/03/22,Premier League,2021/2022,Midfielder,Newcastle United,136,90,46,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,5,4,1,1,0,0,0,0,0,0,0,3.31,27,68,136,0,0.66,-1,-1,-1,12
+Ismaïla Sarr,23,888364800,1998/02/25,Premier League,2021/2022,Midfielder,Watford,270,90,180,Senegal,3,1,2,1,1,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0.33,0,0.33,1,0,270,1.33,68,90,0,0,0,-1,-1,-1,2
+Issa Diop,24,852768000,1997/01/09,Premier League,2021/2022,Defender,West Ham United,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ivan Toney,25,826934400,1996/03/16,Premier League,2021/2022,Forward,Brentford,270,90,180,England,3,1,2,1,0,1,0,0,0,0,0,2,1,1,1,0,1,1,0,0.33,0,0.33,0,0.5,270,0.33,270,90,270,0,0.33,-1,-1,-1,1
+Jack Butland,28,731721600,1993/03/10,Premier League,2021/2022,Goalkeeper,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jack Cork,32,614736000,1989/06/25,Premier League,2021/2022,Midfielder,Burnley,175,85,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,2.06,44,88,0,0,0,-1,-1,-1,7
+Jack Grealish,25,810691200,1995/09/10,Premier League,2021/2022,Midfielder,Manchester City,255,165,90,England,3,2,1,1,1,0,1,1,0,0,0,2,2,0,1,0,1,1,0,0.71,0.35,0.35,0.55,0,255,0.35,255,85,255,255,0.35,-1,-1,-1,7
+Jack Harrison,24,848448000,1996/11/20,Premier League,2021/2022,Midfielder,Leeds United,250,90,160,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,8,2,6,0,0,0,0,0,0,0,0,2.88,31,83,0,0,0,-1,-1,-1,13
+Jack Stephens,27,759628800,1994/01/27,Premier League,2021/2022,Defender,Southampton,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,1,4,1,0,0,0,0,0,0,0,1.67,54,90,270,0,0.33,-1,-1,-1,11
+Jacob Murphy,26,793584000,1995/02/24,Premier League,2021/2022,Midfielder,Newcastle United,270,180,90,England,3,2,1,1,1,0,1,1,0,0,0,0,0,0,7,5,2,1,0,0.67,0.33,0.33,0.5,0,270,2.33,39,90,270,270,0.33,-1,-1,-1,3
+Jacob Ramsey,20,991008000,2001/05/28,Premier League,2021/2022,Midfielder,Aston Villa,134,90,44,England,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.67,134,67,0,0,0,-1,-1,-1,13
+Jaden Philogene-Bidace,0,0,1970/01/01,Premier League,2021/2022,Midfielder,Aston Villa,4,4,0,England,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,10
+Jadon Sancho,21,953942400,2000/03/25,Premier League,2021/2022,Midfielder,Manchester United,118,15,103,England,3,1,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,-1,-1,-1,7
+Jaïro Riedewald,24,842227200,1996/09/09,Premier League,2021/2022,Defender,Crystal Palace,76,0,76,Netherlands,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,3.55,25,76,0,0,0,-1,-1,-1,9
+Jakob Sørensen,23,888883200,1998/03/03,Premier League,2021/2022,Midfielder,Norwich City,0,0,0,Denmark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jakub Moder,22,923443200,1999/04/07,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,101,83,18,Poland,3,2,1,0,0,0,1,0,1,0,0,1,1,0,2,2,0,0,0,0.89,0.89,0,0,0,0,1.78,51,34,0,101,0,-1,-1,-1,8
+Jamal Baptiste,17,1068508800,2003/11/11,Premier League,2021/2022,Defender,West Ham United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jamal Lascelles,27,752976000,1993/11/11,Premier League,2021/2022,Defender,Newcastle United,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,1.5,60,90,180,0,0.5,-1,-1,-1,5
+Jamal Lewis,23,885686400,1998/01/25,Premier League,2021/2022,Midfielder,Newcastle United,0,0,0,Northern Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+James Maddison,24,848707200,1996/11/23,Premier League,2021/2022,Midfielder,Leicester City,229,62,167,England,3,1,2,0,0,0,0,0,0,0,0,1,1,0,4,0,4,0,0,0,0,0,0,0,0,1.57,57,76,0,0,0,-1,-1,-1,13
+James McArthur,33,560563200,1987/10/07,Premier League,2021/2022,Midfielder,Crystal Palace,268,90,178,Scotland,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.68,54,89,0,0,0,-1,-1,-1,7
+James Milner,35,505180800,1986/01/04,Premier League,2021/2022,Midfielder,Liverpool,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,90,90,0,1,-1,-1,-1,13
+James Tarkowski,28,722131200,1992/11/19,Premier League,2021/2022,Defender,Burnley,270,180,90,England,3,2,1,1,1,0,0,0,0,0,0,0,0,0,5,3,2,1,0,0.33,0,0.33,0.5,0,270,1.67,54,90,270,0,0.33,-1,-1,-1,1
+James Tomkins,32,607132800,1989/03/29,Premier League,2021/2022,Defender,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+James Ward-Prowse,26,783648000,1994/11/01,Premier League,2021/2022,Midfielder,Southampton,270,90,180,England,3,1,2,1,0,1,0,0,0,1,0,0,0,0,5,1,4,1,0,0.33,0,0.33,0,0.5,270,1.67,54,90,270,0,0.33,-1,-1,-1,3
+Jamie Shackelton,21,939340800,1999/10/08,Premier League,2021/2022,Midfielder,Leeds United,55,30,25,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,-1,-1,-1,6
+Jamie Vardy,34,537321600,1987/01/11,Premier League,2021/2022,Forward,Leicester City,261,90,171,England,3,1,2,2,1,1,1,0,1,0,0,1,1,0,4,0,4,1,0,1.03,0.34,0.69,1,0.53,131,1.38,65,87,261,261,0.34,-1,-1,-1,1
+Jan Bednarek,25,829267200,1996/04/12,Premier League,2021/2022,Defender,Southampton,44,44,0,Poland,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2.05,44,44,0,0,0,-1,-1,-1,5
+Jannik Vestergaard,29,712800000,1992/08/03,Premier League,2021/2022,Defender,Leicester City,28,28,0,Denmark,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,-1,-1,-1,9
+Japhet Tanganga,22,922838400,1999/03/31,Premier League,2021/2022,Defender,Tottenham Hotspur,263,173,90,England,3,2,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,88,263,0,0.34,-1,-1,-1,6
+Jarrad Branthwaite,19,1025136000,2002/06/27,Premier League,2021/2022,Midfielder,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jarrod Bowen,24,851040000,1996/12/20,Premier League,2021/2022,Forward,West Ham United,259,169,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,1.74,52,86,0,0,0,-1,-1,-1,11
+Jason Steele,30,650937600,1990/08/18,Premier League,2021/2022,Goalkeeper,Brighton & Hove Albion,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Javier Manquillo Gaitán,27,768096000,1994/05/05,Premier League,2021/2022,Defender,Newcastle United,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jay Rodriguez,32,617673600,1989/07/29,Premier League,2021/2022,Forward,Burnley,85,70,15,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,0,0,-1,-1,-1,10
+Jean-Philippe Gbamin,25,811987200,1995/09/25,Premier League,2021/2022,Midfielder,Everton,0,0,0,Côte d'Ivoire,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jean-Philippe Mateta,24,867456000,1997/06/28,Premier League,2021/2022,Forward,Crystal Palace,57,0,57,France,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,3.16,29,57,0,0,0,-1,-1,-1,12
+Jed Steer,28,717120000,1992/09/22,Premier League,2021/2022,Goalkeeper,Aston Villa,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jeff Hendrick,29,696816000,1992/01/31,Premier League,2021/2022,Midfielder,Newcastle United,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jeffrey Schlupp,28,725068800,1992/12/23,Premier League,2021/2022,Defender,Crystal Palace,127,68,59,Ghana,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,1.42,64,42,0,0,0,-1,-1,-1,4
+Jeremy Ngakia,20,968284800,2000/09/07,Premier League,2021/2022,Forward,Watford,39,0,39,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,-1,-1,-1,7
+Jesse Lingard,28,724377600,1992/12/15,Premier League,2021/2022,Midfielder,Manchester United,4,0,4,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,6
+Jesuran Rak-Sakyi,0,0,1970/01/01,Premier League,2021/2022,Forward,Crystal Palace,14,0,14,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,-1,-1,-1,15
+Joachim Andersen,25,833500800,1996/05/31,Premier League,2021/2022,Defender,Crystal Palace,213,90,123,Denmark,3,1,2,0,0,0,0,0,0,0,0,1,1,0,3,0,3,1,0,0,0,0,0,0,0,1.27,71,71,213,0,0.42,-1,-1,-1,14
+João Cancelo,27,769996800,1994/05/27,Premier League,2021/2022,Defender,Manchester City,270,180,90,Portugal,3,2,1,0,0,0,0,0,0,0,0,2,2,0,1,0,1,0,0,0,0,0,0,0,0,0.33,270,90,0,0,0,-1,-1,-1,14
+João Moutinho,34,526521600,1986/09/08,Premier League,2021/2022,Midfielder,Wolverhampton Wanderers,228,162,66,Portugal,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1.18,76,76,0,0,0,-1,-1,-1,13
+Joe Gelhardt,19,1020470400,2002/05/04,Premier League,2021/2022,Midfielder,Leeds United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Joe Gomez,24,864345600,1997/05/23,Premier League,2021/2022,Defender,Liverpool,0,0,0,England,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Joel Matip,30,681609600,1991/08/08,Premier League,2021/2022,Defender,Liverpool,270,180,90,Cameroon,3,2,1,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0.33,270,90,0,0,0,-1,-1,-1,10
+Joël Veltman,29,695433600,1992/01/15,Premier League,2021/2022,Defender,Brighton & Hove Albion,44,44,0,Netherlands,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2.05,44,44,0,0,0,-1,-1,-1,5
+Joel Ward,31,625622400,1989/10/29,Premier League,2021/2022,Defender,Crystal Palace,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,1,0,0,0,0,0,0,0,1.67,54,90,270,0,0.33,-1,-1,-1,3
+Joelinton Cassio Apolinário de Lira,25,839980800,1996/08/14,Premier League,2021/2022,Forward,Newcastle United,38,26,12,Brazil,3,2,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2.37,38,13,0,0,0,-1,-1,-1,6
+Johann Berg Guðmunds­son,30,656985600,1990/10/27,Premier League,2021/2022,Midfielder,Burnley,232,153,79,Iceland,3,2,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,1.55,58,77,232,0,0.39,-1,-1,-1,8
+John McGinn,26,782438400,1994/10/18,Premier League,2021/2022,Midfielder,Aston Villa,180,90,90,Scotland,2,1,1,1,0,1,0,0,0,0,0,1,1,0,3,0,3,0,0,0.5,0,0.5,0,1,180,1.5,60,90,0,0,0,-1,-1,-1,2
+John Ruddy,34,530496000,1986/10/24,Premier League,2021/2022,Goalkeeper,Wolverhampton Wanderers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+John Stones,27,770083200,1994/05/28,Premier League,2021/2022,Defender,Manchester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jonjo Shelvey,29,699148800,1992/02/27,Premier League,2021/2022,Midfielder,Newcastle United,70,70,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,1,0,0,0,0,0,0,0,5.14,18,70,70,0,1.29,-1,-1,-1,14
+Jonjoe Kenny,24,858384000,1997/03/15,Premier League,2021/2022,Defender,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Jordan Ayew,29,684547200,1991/09/11,Premier League,2021/2022,Forward,Crystal Palace,202,22,180,Ghana,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,2.23,40,67,0,0,0,-1,-1,-1,10
+Jordan Henderson,31,645580800,1990/06/17,Premier League,2021/2022,Midfielder,Liverpool,164,164,0,England,2,2,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0.55,164,82,0,0,0,-1,-1,-1,6
+Jordan Pickford,27,762998400,1994/03/07,Premier League,2021/2022,Goalkeeper,Everton,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,0,1,3,1,2,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,5
+Jorginho,29,693187200,1991/12/20,Premier League,2021/2022,Midfielder,Chelsea,267,90,177,Italy,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.34,267,89,0,0,0,-1,-1,-1,14
+José Diogo Dalot Teixeira,22,921715200,1999/03/18,Premier League,2021/2022,Defender,Manchester United,0,0,0,Portugal,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+José Pedro Malheiro de Sá,28,727228800,1993/01/17,Premier League,2021/2022,Goalkeeper,Wolverhampton Wanderers,270,180,90,Portugal,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,1
+Joseph Willock,21,935107200,1999/08/20,Premier League,2021/2022,Midfielder,Newcastle United,174,84,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1.55,58,87,0,0,0,-1,-1,-1,17
+Josh Brownhill,25,819331200,1995/12/19,Premier League,2021/2022,Midfielder,Burnley,191,101,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,1.41,64,64,191,0,0.47,-1,-1,-1,13
+Joshua King,29,695433600,1992/01/15,Premier League,2021/2022,Forward,Watford,90,0,90,Norway,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,45,0,0,0,-1,-1,-1,19
+Joshua Sargent,21,951004800,2000/02/20,Premier League,2021/2022,Forward,Norwich City,43,30,13,USA,3,2,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,4.19,22,14,0,0,0,-1,-1,-1,6
+Juan Camilo Hernández Suárez,22,924739200,1999/04/22,Premier League,2021/2022,Forward,Watford,93,24,69,Colombia,3,1,2,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0.97,0,0.97,3.75,0,93,0.97,93,31,0,0,0,-1,-1,-1,3
+Juan Mata,33,578188800,1988/04/28,Premier League,2021/2022,Midfielder,Manchester United,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Juraj Kucka,34,541296000,1987/02/26,Premier League,2021/2022,Midfielder,Watford,159,69,90,Slovakia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0.57,159,80,159,0,0.57,-1,-1,-1,15
+Kai Havertz,22,929059200,1999/06/11,Premier League,2021/2022,Midfielder,Chelsea,144,8,136,Germany,3,1,2,1,0,1,0,0,0,0,0,2,1,1,1,0,1,0,0,0.63,0,0.63,0,0.66,144,0.63,144,48,0,0,0,-1,-1,-1,6
+Kalvin Phillips,25,817862400,1995/12/02,Premier League,2021/2022,Midfielder,Leeds United,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,0,1.5,60,90,180,0,0.5,-1,-1,-1,7
+Karl Jakob Hein,19,1018656000,2002/04/13,Premier League,2021/2022,Goalkeeper,Arsenal,0,0,0,Estonia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kasper Schmeichel,34,531532800,1986/11/05,Premier League,2021/2022,Goalkeeper,Leicester City,270,90,180,Denmark,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,10
+Kelechi Iheanacho,24,844300800,1996/10/03,Premier League,2021/2022,Forward,Leicester City,50,18,32,Nigeria,3,1,2,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1.8,50,17,0,0,0,-1,-1,-1,7
+Ken Sema,27,749347200,1993/09/30,Premier League,2021/2022,Midfielder,Watford,168,90,78,Sweden,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,1.61,56,84,168,0,0.54,-1,-1,-1,13
+Kenny Mclean,29,694828800,1992/01/08,Premier League,2021/2022,Midfielder,Norwich City,134,90,44,Scotland,2,1,1,0,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,3.36,27,67,0,0,0,-1,-1,-1,4
+Kepa Arrizabalaga,26,781142400,1994/10/03,Premier League,2021/2022,Goalkeeper,Chelsea,0,0,0,Spain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kevin De Bruyne,30,678067200,1991/06/28,Premier League,2021/2022,Midfielder,Manchester City,11,0,11,Belgium,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,-1,-1,-1,11
+Ki-Jana Hoever,19,1011312000,2002/01/18,Premier League,2021/2022,Defender,Wolverhampton Wanderers,90,0,90,Netherlands,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,90,90,90,0,1,-1,-1,-1,14
+Kieran Dowell,23,876441600,1997/10/10,Premier League,2021/2022,Midfielder,Norwich City,4,4,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,5
+Kieran Tierney,24,865468800,1997/06/05,Premier League,2021/2022,Defender,Arsenal,246,66,180,Scotland,3,1,2,0,0,0,0,0,0,0,0,0,0,0,9,2,7,0,0,0,0,0,0,0,0,3.29,27,82,0,0,0,-1,-1,-1,20
+Kiernan Dewsbury-Hall,22,905040000,1998/09/06,Premier League,2021/2022,Midfielder,Leicester City,4,0,4,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,5
+Konstantinos Tsimikas,25,831859200,1996/05/12,Premier League,2021/2022,Defender,Liverpool,184,94,90,Greece,3,2,1,0,0,0,1,1,0,0,0,2,1,1,0,0,0,0,0,0.49,0.49,0,0,0,0,0,0,61,0,184,0,-1,-1,-1,15
+Kortney Hause,26,805852800,1995/07/16,Premier League,2021/2022,Defender,Aston Villa,1,1,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-1,-1,8
+Kristoffer Ajer,23,892771200,1998/04/17,Premier League,2021/2022,Defender,Brentford,251,71,180,Norway,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.36,251,84,0,0,0,-1,-1,-1,17
+Kristoffer Klaesson,20,975283200,2000/11/27,Premier League,2021/2022,Goalkeeper,Leeds United,0,0,0,Norway,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kurt Zouma,26,783216000,1994/10/27,Premier League,2021/2022,Defender,Chelsea,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kwadwo Baah,0,0,1970/01/01,Premier League,2021/2022,Forward,Watford,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Kyle Walker,31,643852800,1990/05/28,Premier League,2021/2022,Defender,Manchester City,136,136,0,England,2,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,-1,-1,-1,9
+Kyle Walker-Peters,24,860889600,1997/04/13,Premier League,2021/2022,Defender,Southampton,101,11,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0.89,101,51,101,0,0.89,-1,-1,-1,6
+Leander Dendoncker,26,797904000,1995/04/15,Premier League,2021/2022,Midfielder,Wolverhampton Wanderers,42,18,24,Belgium,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,-1,-1,-1,7
+Leandro Trossard,26,786499200,1994/12/04,Premier League,2021/2022,Forward,Brighton & Hove Albion,238,162,76,Belgium,3,2,1,0,0,0,0,0,0,0,0,1,1,0,3,2,1,0,0,0,0,0,0,0,0,1.13,79,79,0,0,0,-1,-1,-1,12
+Leon Bailey Butler,24,871084800,1997/08/09,Premier League,2021/2022,Forward,Aston Villa,30,0,30,Jamaica,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,3,3,0,0,0,0,3,30,30,0,30,0,-1,-1,-1,5
+Lewis Dunk,29,690681600,1991/11/21,Premier League,2021/2022,Defender,Brighton & Hove Albion,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,1,1,0,3,2,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,17
+Lewis Richardson,18,1044576000,2003/02/07,Premier League,2021/2022,Forward,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Liam Cooper,29,683510400,1991/08/30,Premier League,2021/2022,Defender,Leeds United,270,90,180,Scotland,3,1,2,0,0,0,1,1,0,0,0,0,0,0,8,2,6,2,0,0.33,0.33,0,0,0,0,2.67,34,90,135,270,0.67,-1,-1,-1,12
+Liam McCarron,20,983923200,2001/03/07,Premier League,2021/2022,Forward,Leeds United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Lucas Digne,28,743126400,1993/07/20,Premier League,2021/2022,Defender,Everton,270,90,180,France,3,1,2,0,0,0,0,0,0,0,0,1,0,1,3,1,2,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,7
+Lucas Rodrigues Moura da Silva,28,713664000,1992/08/13,Premier League,2021/2022,Midfielder,Tottenham Hotspur,179,112,67,Brazil,3,2,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,60,179,0,0.5,-1,-1,-1,7
+Lukas Rupp,30,663292800,1991/01/08,Premier League,2021/2022,Midfielder,Norwich City,153,107,46,Germany,3,2,1,0,0,0,0,0,0,0,0,0,0,0,6,4,2,0,0,0,0,0,0,0,0,3.53,26,51,0,0,0,-1,-1,-1,12
+Luke Ayling,29,683078400,1991/08/25,Premier League,2021/2022,Defender,Leeds United,270,90,180,England,3,1,2,1,0,1,0,0,0,0,0,0,0,0,8,2,6,0,0,0.33,0,0.33,0,0.5,270,2.67,34,90,0,0,0,-1,-1,-1,2
+Luke Cundle,0,0,1970/01/01,Premier League,2021/2022,Midfielder,Wolverhampton Wanderers,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Luke Shaw,26,805507200,1995/07/12,Premier League,2021/2022,Defender,Manchester United,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0.67,135,90,270,0,0.33,-1,-1,-1,15
+Luke Thomas,0,0,1970/01/01,Premier League,2021/2022,Midfielder,Leicester City,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,15
+Mads Bech Sørensen,22,915667200,1999/01/07,Premier League,2021/2022,Defender,Brentford,19,19,0,Denmark,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,-1,-1,-1,4
+Mads Bidstrup,20,983059200,2001/02/25,Premier League,2021/2022,Midfielder,Brentford,13,10,3,Denmark,2,1,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,-1,-1,-1,9
+Mads Roerslev Rasmussen,22,930182400,1999/06/24,Premier League,2021/2022,Defender,Brentford,0,0,0,Denmark,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Manuel Lanzini,28,729734400,1993/02/15,Premier League,2021/2022,Midfielder,West Ham United,11,11,0,Argentina,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,-1,-1,-1,15
+Marc Albrighton,31,627350400,1989/11/18,Premier League,2021/2022,Midfielder,Leicester City,90,0,90,England,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1,90,1,90,90,90,0,1,-1,-1,-1,2
+Marc Guehi,21,963446400,2000/07/13,Premier League,2021/2022,Defender,Crystal Palace,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,5
+Marcos Alonso,30,662342400,1990/12/28,Premier League,2021/2022,Defender,Chelsea,266,86,180,Spain,3,1,2,1,1,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0.34,0,0.34,1.05,0,266,0.34,266,89,0,0,0,-1,-1,-1,3
+Marcus Forss,22,929664000,1999/06/18,Premier League,2021/2022,Forward,Brentford,4,4,0,Finland,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,8
+Mark Gillespie,29,701654400,1992/03/27,Premier League,2021/2022,Goalkeeper,Newcastle United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Mark Noble,34,547430400,1987/05/08,Premier League,2021/2022,Midfielder,West Ham United,2,2,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,-1,-1,14
+Martin Kelly,31,641174400,1990/04/27,Premier League,2021/2022,Defender,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Martin Ødegaard,22,913852800,1998/12/17,Premier League,2021/2022,Midfielder,Arsenal,71,0,71,Norway,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,5.07,18,71,0,0,0,-1,-1,-1,3
+Marvelous Nakamba,27,758937600,1994/01/19,Premier League,2021/2022,Midfielder,Aston Villa,117,27,90,Zimbabwe,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,2.31,39,59,0,0,0,-1,-1,-1,16
+Mason Greenwood,19,1001894400,2001/10/01,Premier League,2021/2022,Midfielder,Manchester United,270,90,180,England,3,1,2,3,1,2,0,0,0,0,0,1,0,1,2,1,1,0,0,1,0,1,1,1,90,0.67,135,90,0,0,0,-1,-1,-1,1
+Mason Holgate,24,845942400,1996/10/22,Premier League,2021/2022,Defender,Everton,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,-1,-1,-1,9
+Mason Mount,22,915926400,1999/01/10,Premier League,2021/2022,Midfielder,Chelsea,262,90,172,England,3,1,2,0,0,0,1,0,1,0,0,2,1,1,1,0,1,0,0,0.34,0.34,0,0,0,0,0.34,262,87,0,262,0,-1,-1,-1,13
+Matěj Vydra,29,704678400,1992/05/01,Premier League,2021/2022,Forward,Burnley,16,16,0,Czech Republic,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,5.63,16,8,0,0,0,-1,-1,-1,14
+Mateo Kovačić,27,768182400,1994/05/06,Premier League,2021/2022,Midfielder,Chelsea,206,90,116,Croatia,3,1,2,0,0,0,1,1,0,0,0,2,1,1,0,0,0,0,0,0.44,0.44,0,0,0,0,0,0,69,0,206,0,-1,-1,-1,15
+Mateusz Klich,31,645235200,1990/06/13,Premier League,2021/2022,Midfielder,Leeds United,150,60,90,Poland,2,1,1,1,1,0,0,0,0,0,0,0,0,0,7,2,5,0,0,0.6,0,0.6,1.5,0,150,4.2,21,75,0,0,0,-1,-1,-1,3
+Mathias Jensen,25,820454400,1996/01/01,Premier League,2021/2022,Midfielder,Brentford,10,0,10,Denmark,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,-1,-1,-1,5
+Matt Doherty,29,695520000,1992/01/16,Premier League,2021/2022,Defender,Tottenham Hotspur,7,7,0,Republic of Ireland,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,-1,-1,-1,13
+Matt Ritchie,31,621388800,1989/09/10,Premier League,2021/2022,Midfielder,Newcastle United,270,180,90,Scotland,3,2,1,0,0,0,1,1,0,0,0,0,0,0,7,5,2,0,0,0.33,0.33,0,0,0,0,2.33,39,90,0,270,0,-1,-1,-1,13
+Matt Targett,25,811382400,1995/09/18,Premier League,2021/2022,Defender,Aston Villa,136,90,46,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1.99,45,68,0,0,0,-1,-1,-1,18
+Matthew Lowton,32,613353600,1989/06/09,Premier League,2021/2022,Defender,Burnley,270,180,90,England,3,2,1,0,0,0,1,1,0,0,0,0,0,0,5,3,2,0,0,0.33,0.33,0,0,0,0,1.67,54,90,0,270,0,-1,-1,-1,4
+Matty Cash,24,870912000,1997/08/07,Premier League,2021/2022,Midfielder,Aston Villa,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,1,1,0,4,1,3,1,0,0,0,0,0,0,0,1.33,68,90,270,0,0.33,-1,-1,-1,15
+Max Kilman,24,864345600,1997/05/23,Premier League,2021/2022,Defender,Wolverhampton Wanderers,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,15
+Maximillian James Aarons,21,946944000,2000/01/04,Premier League,2021/2022,Midfielder,Norwich City,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,10,5,5,0,0,0,0,0,0,0,0,3.33,27,90,0,0,0,-1,-1,-1,13
+Michael Keane,28,726710400,1993/01/11,Premier League,2021/2022,Defender,Everton,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,8
+Michail Antonio,31,638582400,1990/03/28,Premier League,2021/2022,Midfielder,West Ham United,269,179,90,England,3,2,1,4,3,1,3,2,1,0,1,0,0,0,5,3,2,0,0,2.34,1,1.34,1.51,1,67,1.67,54,90,0,90,0,-1,-1,-1,1
+Michał Karbownik,20,984441600,2001/03/13,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,0,0,0,Poland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Miguel Ángel Almirón Rejala,27,760838400,1994/02/10,Premier League,2021/2022,Midfielder,Newcastle United,270,180,90,Paraguay,3,2,1,0,0,0,0,0,0,0,0,0,0,0,7,5,2,0,0,0,0,0,0,0,0,2.33,39,90,0,0,0,-1,-1,-1,11
+Milot Rashica,25,835920000,1996/06/28,Premier League,2021/2022,Forward,Norwich City,257,167,90,Kosovo,3,2,1,0,0,0,0,0,0,0,0,0,0,0,10,5,5,0,0,0,0,0,0,0,0,3.5,26,86,0,0,0,-1,-1,-1,11
+Mohamed Elneny,29,710812800,1992/07/11,Premier League,2021/2022,Midfielder,Arsenal,44,0,44,Egypt,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,4.09,22,44,0,0,0,-1,-1,-1,8
+Mohamed Elyounoussi,27,775958400,1994/08/04,Premier League,2021/2022,Midfielder,Southampton,90,0,90,Norway,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,90,1,90,90,0,0,0,-1,-1,-1,2
+Mohamed Saïd Benrahma,26,808012800,1995/08/10,Premier League,2021/2022,Forward,West Ham United,266,178,88,Algeria,3,2,1,2,1,1,2,1,1,0,0,0,0,0,5,3,2,0,0,1.35,0.68,0.68,0.51,1.02,133,1.69,53,89,0,133,0,-1,-1,-1,3
+Mohamed Salah,29,708566400,1992/06/15,Premier League,2021/2022,Forward,Liverpool,270,180,90,Egypt,3,2,1,2,1,1,2,0,2,1,0,2,1,1,1,1,0,0,0,1.33,0.67,0.67,0.5,1,135,0.33,270,90,0,135,0,-1,-1,-1,1
+Mohamed Salisu Abdul Karim,22,924307200,1999/04/17,Premier League,2021/2022,Defender,Southampton,270,90,180,Ghana,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,15
+Moise Kean,21,951696000,2000/02/28,Premier League,2021/2022,Forward,Everton,0,0,0,Italy,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Moisés Isaac Caicedo Corozo,20,981849600,2001/02/11,Premier League,2021/2022,Forward,Brighton & Hove Albion,0,0,0,Ecuador,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Morgan Gibbs-White,21,948931200,2000/01/27,Premier League,2021/2022,Midfielder,Wolverhampton Wanderers,7,3,4,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,7,0,12.86,-1,-1,-1,6
+Moussa Djenepo,23,897868800,1998/06/15,Premier League,2021/2022,Midfielder,Southampton,218,70,148,Mali,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,1,4,2,0,0,0,0,0,0,0,2.06,44,73,109,0,0.83,-1,-1,-1,13
+Moussa Sissoko,31,619228800,1989/08/16,Premier League,2021/2022,Midfielder,Watford,71,0,71,France,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1.27,71,71,71,0,1.27,-1,-1,-1,4
+N'Golo Kanté,30,670204800,1991/03/29,Premier League,2021/2022,Midfielder,Chelsea,64,0,64,France,2,0,2,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1.41,64,32,0,0,0,-1,-1,-1,7
+Naby Deco Keïta,26,792374400,1995/02/10,Premier League,2021/2022,Midfielder,Liverpool,164,81,83,Guinea,2,1,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,0,0,-1,-1,-1,11
+Nathan Aké,26,793065600,1995/02/18,Premier League,2021/2022,Defender,Manchester City,90,0,90,Netherlands,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,17
+Nathan Broadhead,23,891734400,1998/04/05,Premier League,2021/2022,Forward,Everton,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nathan Michael Collins,20,988588800,2001/04/30,Premier League,2021/2022,Defender,Burnley,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nathan Redmond,27,762912000,1994/03/06,Premier League,2021/2022,Midfielder,Southampton,39,0,39,England,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,-1,-1,-1,7
+Nathan Tella,22,931132800,1999/07/05,Premier League,2021/2022,Midfielder,Southampton,10,0,10,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,9,10,10,0,0,0,-1,-1,-1,8
+Nathaniel Clyne,30,670809600,1991/04/05,Premier League,2021/2022,Defender,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Neal Maupay,25,839980800,1996/08/14,Premier League,2021/2022,Forward,Brighton & Hove Albion,226,136,90,France,3,2,1,2,1,1,0,0,0,0,0,1,1,0,3,2,1,1,0,0.8,0,0.8,0.66,1,113,1.19,75,75,226,0,0.4,-1,-1,-1,1
+Nélson Semedo,27,753408000,1993/11/16,Premier League,2021/2022,Defender,Wolverhampton Wanderers,180,180,0,Portugal,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,3
+Nemanja Matić,33,586396800,1988/08/01,Premier League,2021/2022,Midfielder,Manchester United,106,20,86,Serbia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.85,106,53,0,0,0,-1,-1,-1,9
+Nick Pope,29,703641600,1992/04/19,Premier League,2021/2022,Goalkeeper,Burnley,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,3
+Nicolas Pépé,25,812332800,1995/09/29,Premier League,2021/2022,Forward,Arsenal,180,90,90,Côte d'Ivoire,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,15
+Niels Nkounkou,20,973036800,2000/11/01,Premier League,2021/2022,Defender,Everton,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Nuno Albertino Varela Tavares,21,948844800,2000/01/26,Premier League,2021/2022,Defender,Arsenal,33,24,9,Portugal,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,-1,-1,-1,10
+Oghenekaro Etebo,25,815875200,1995/11/09,Premier League,2021/2022,Forward,Watford,270,90,180,Nigeria,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,2,0,0,0,0,0,0,0,1.33,68,90,135,0,0.67,-1,-1,-1,12
+Ogochukwu Onyeka Frank,23,883612800,1998/01/01,Premier League,2021/2022,Midfielder,Brentford,150,80,70,Nigeria,2,1,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,-1,-1,-1,13
+Oleksandr Zinchenko,24,850608000,1996/12/15,Premier League,2021/2022,Midfielder,Manchester City,55,44,11,Ukraine,2,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,-1,-1,-1,13
+Oliver Skipp,20,969062400,2000/09/16,Premier League,2021/2022,Midfielder,Tottenham Hotspur,270,180,90,England,3,2,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0,2,0,0,0,0,0,0,0,0,0,90,135,0,0.67,-1,-1,-1,10
+Ollie Watkins,25,820281600,1995/12/30,Premier League,2021/2022,Forward,Aston Villa,11,11,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,-1,-1,-1,20
+Onyinye Wilfred Ndidi,24,850694400,1996/12/16,Premier League,2021/2022,Midfielder,Leicester City,270,90,180,Nigeria,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,14
+Oriol Romeu,29,685670400,1991/09/24,Premier League,2021/2022,Midfielder,Southampton,257,90,167,Spain,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,1.4,64,86,0,0,0,-1,-1,-1,14
+Owen Dodgson,18,1048032000,2003/03/19,Premier League,2021/2022,Defender,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Pablo Fornals Malla,25,824947200,1996/02/22,Premier League,2021/2022,Midfielder,West Ham United,267,177,90,Spain,3,2,1,2,2,0,1,0,1,0,0,0,0,0,5,3,2,0,0,1.01,0.34,0.67,1.02,0,134,1.69,53,89,0,267,0,-1,-1,-1,2
+Pablo Marí Villar,27,746755200,1993/08/31,Premier League,2021/2022,Defender,Arsenal,180,90,90,Spain,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,1,0,0,0,0,0,0,0,2,45,90,180,0,0.5,-1,-1,-1,12
+Pascal Groß,30,676944000,1991/06/15,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,270,180,90,Germany,3,2,1,0,0,0,2,1,1,0,0,1,1,0,3,2,1,0,0,0.67,0.67,0,0,0,0,1,90,90,0,135,0,-1,-1,-1,16
+Pascal Struijk,22,934329600,1999/08/11,Premier League,2021/2022,Defender,Leeds United,270,90,180,Netherlands,3,1,2,0,0,0,0,0,0,0,0,0,0,0,8,2,6,1,0,0,0,0,0,0,0,2.67,34,90,270,0,0.33,-1,-1,-1,14
+Patrick Bamford,27,747187200,1993/09/05,Premier League,2021/2022,Forward,Leeds United,257,90,167,England,3,1,2,1,0,1,1,1,0,0,0,0,0,0,8,2,6,1,0,0.7,0.35,0.35,0,0.54,257,2.8,32,86,257,257,0.35,-1,-1,-1,4
+Patrik Sigurður Gunnarsson,20,974246400,2000/11/15,Premier League,2021/2022,Goalkeeper,Brentford,0,0,0,Iceland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Patson Daka,22,907891200,1998/10/09,Premier League,2021/2022,Forward,Leicester City,26,0,26,Zambia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,6.92,13,26,0,0,0,-1,-1,-1,6
+Paul Pogba,28,732153600,1993/03/15,Premier League,2021/2022,Midfielder,Manchester United,255,75,180,France,3,1,2,0,0,0,5,4,1,0,0,1,0,1,2,1,1,2,0,1.76,1.76,0,0,0,0,0.71,128,85,128,51,0.71,-1,-1,-1,13
+Phil Bardsley,36,488764800,1985/06/28,Premier League,2021/2022,Defender,Burnley,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Pierluigi Gollini,26,795484800,1995/03/18,Premier League,2021/2022,Goalkeeper,Tottenham Hotspur,0,0,0,Italy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Pierre Lees Melou,28,738288000,1993/05/25,Premier League,2021/2022,Midfielder,Norwich City,253,163,90,France,3,2,1,0,0,0,0,0,0,0,0,0,0,0,9,4,5,1,0,0,0,0,0,0,0,3.2,28,84,253,0,0.36,-1,-1,-1,9
+Pierre-Emerick Aubameyang,32,614131200,1989/06/18,Premier League,2021/2022,Forward,Arsenal,88,29,59,Gabon,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,4.09,22,44,0,0,0,-1,-1,-1,5
+Pierre-Emile Højbjerg,26,807580800,1995/08/05,Premier League,2021/2022,Midfielder,Tottenham Hotspur,270,180,90,Denmark,3,2,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,90,270,0,0.33,-1,-1,-1,8
+Pontus Jansson,30,666403200,1991/02/13,Premier League,2021/2022,Defender,Brentford,270,90,180,Sweden,3,1,2,0,0,0,1,0,1,0,0,2,1,1,1,0,1,0,0,0.33,0.33,0,0,0,0,0.33,270,90,0,270,0,-1,-1,-1,12
+Raheem Sterling,26,786844800,1994/12/08,Premier League,2021/2022,Forward,Manchester City,131,61,70,England,3,2,1,1,1,0,0,0,0,0,0,2,2,0,1,0,1,0,0,0.69,0,0.69,1.48,0,131,0.69,131,44,0,0,0,-1,-1,-1,2
+Raphael Dias Belloli,25,824256000,1996/02/14,Premier League,2021/2022,Forward,Leeds United,270,90,180,Brazil,3,1,2,1,1,0,0,0,0,0,0,0,0,0,8,2,6,1,0,0.33,0,0.33,1,0,270,2.67,34,90,270,0,0.33,-1,-1,-1,1
+Raphaël Varane,28,735696000,1993/04/25,Premier League,2021/2022,Defender,Manchester United,90,0,90,France,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,90,0,90,0,-1,-1,-1,5
+Raúl Alonso Jiménez Rodríguez,30,673401600,1991/05/05,Premier League,2021/2022,Forward,Wolverhampton Wanderers,270,180,90,Mexico,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,9
+Rayan Aït Nouri,20,991785600,2001/06/06,Premier League,2021/2022,Defender,Wolverhampton Wanderers,6,6,0,France,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,-1,-1,-1,4
+Reece Hannam,20,969321600,2000/09/19,Premier League,2021/2022,Defender,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Reece James,21,944611200,1999/12/08,Premier League,2021/2022,Defender,Chelsea,158,23,135,England,3,1,2,1,0,1,2,0,2,0,0,2,1,1,0,0,0,1,1,1.71,1.14,0.57,0,0.67,158,0,0,53,79,79,1.14,-1,-1,-1,2
+Reiss Nelson,21,944784000,1999/12/10,Premier League,2021/2022,Forward,Arsenal,19,0,19,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,4.74,19,19,0,0,0,-1,-1,-1,2
+Remi Matthews,27,760838400,1994/02/10,Premier League,2021/2022,Goalkeeper,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Ricardo Domingos Barbosa Pereira,27,749865600,1993/10/06,Premier League,2021/2022,Defender,Leicester City,191,90,101,Portugal,3,1,2,0,0,0,2,1,1,0,0,1,1,0,4,0,4,1,0,0.94,0.94,0,0,0,0,1.88,48,64,191,96,0.47,-1,-1,-1,11
+Richarlison de Andrade,24,863222400,1997/05/10,Premier League,2021/2022,Forward,Everton,269,89,180,Brazil,3,1,2,1,1,0,1,1,0,0,0,1,0,1,3,1,2,2,0,0.67,0.33,0.33,1.01,0,269,1,90,90,135,269,0.67,-1,-1,-1,4
+Rico Henry,24,868320000,1997/07/08,Premier League,2021/2022,Defender,Brentford,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.33,270,90,0,0,0,-1,-1,-1,16
+Riyad Mahrez,30,667094400,1991/02/21,Premier League,2021/2022,Midfielder,Manchester City,123,44,79,Algeria,3,2,1,1,1,0,1,1,0,0,0,2,2,0,1,0,1,0,0,1.46,0.73,0.73,2.05,0,123,0.73,123,41,0,123,0,-1,-1,-1,8
+Rob Elliot,35,515203200,1986/04/30,Premier League,2021/2022,Goalkeeper,Watford,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Rob Holding,25,811555200,1995/09/20,Premier League,2021/2022,Defender,Arsenal,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,7,2,5,1,0,0,0,0,0,0,0,3.5,26,90,180,0,0.5,-1,-1,-1,9
+Robert Lynch Sanchez,23,879811200,1997/11/18,Premier League,2021/2022,Goalkeeper,Brighton & Hove Albion,270,180,90,Spain,3,2,1,0,0,0,0,0,0,0,0,1,1,0,3,2,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,10
+Robert Street,19,1001462400,2001/09/26,Premier League,2021/2022,Forward,Crystal Palace,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Roberto Firmino,29,686361600,1991/10/02,Premier League,2021/2022,Forward,Liverpool,81,52,29,Brazil,3,2,1,1,0,1,0,0,0,0,0,2,1,1,1,1,0,0,0,1.11,0,1.11,0,3.1,81,1.11,81,27,0,0,0,-1,-1,-1,4
+Robin Koch,25,837561600,1996/07/17,Premier League,2021/2022,Defender,Leeds United,90,0,90,Germany,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,5,18,90,0,0,0,-1,-1,-1,15
+Rodri,25,835401600,1996/06/22,Premier League,2021/2022,Midfielder,Manchester City,180,180,0,Spain,2,2,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0.5,0,0.5,0.5,0,180,0,0,90,180,0,0.5,-1,-1,-1,5
+Rodrigo,30,668217600,1991/03/06,Premier League,2021/2022,Forward,Leeds United,119,0,119,Spain,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,1.51,60,60,119,0,0.76,-1,-1,-1,11
+Romain Perraud,23,874886400,1997/09/22,Premier League,2021/2022,Defender,Southampton,162,79,83,France,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,2.22,41,81,0,0,0,-1,-1,-1,17
+Romain Saïss,31,638409600,1990/03/26,Premier League,2021/2022,Midfielder,Wolverhampton Wanderers,264,174,90,Morocco,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,0,1.02,88,88,264,0,0.34,-1,-1,-1,12
+Romelu Lukaku,28,737251200,1993/05/13,Premier League,2021/2022,Forward,Chelsea,180,0,180,Belgium,2,0,2,1,0,1,0,0,0,0,0,1,0,1,1,0,1,0,0,0.5,0,0.5,0,0.5,180,0.5,180,90,0,0,0,-1,-1,-1,4
+Rúben Diogo Da Silva Neves,24,858211200,1997/03/13,Premier League,2021/2022,Midfielder,Wolverhampton Wanderers,270,180,90,Portugal,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,11
+Ruben Loftus-Cheek,25,822355200,1996/01/23,Premier League,2021/2022,Midfielder,Chelsea,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Rúben Santos Gato Alves Dias,24,863568000,1997/05/14,Premier League,2021/2022,Defender,Manchester City,270,180,90,Portugal,3,2,1,0,0,0,1,1,0,0,0,2,2,0,1,0,1,0,0,0.33,0.33,0,0,0,0,0.33,270,90,0,270,0,-1,-1,-1,16
+Ryan Fraser,27,762048000,1994/02/24,Premier League,2021/2022,Midfielder,Newcastle United,26,26,0,Scotland,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,-1,-1,-1,8
+Ryan Fredericks,28,718675200,1992/10/10,Premier League,2021/2022,Midfielder,West Ham United,2,0,2,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,-1,-1,-1,12
+Ryan Sessegnon,21,958608000,2000/05/18,Premier League,2021/2022,Defender,Tottenham Hotspur,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Sadio Mané,29,702864000,1992/04/10,Premier League,2021/2022,Forward,Liverpool,270,180,90,Senegal,3,2,1,1,1,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0.33,0,0.33,0.5,0,270,0.33,270,90,0,0,0,-1,-1,-1,3
+Sam Greenwood,0,0,1970/01/01,Premier League,2021/2022,Defender,Leeds United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Saman Ghoddos,27,752284800,1993/11/03,Premier League,2021/2022,Forward,Brentford,86,0,86,Sweden,2,0,2,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1.05,86,43,0,0,0,-1,-1,-1,7
+Scott Banks,20,978307200,2001/01/01,Premier League,2021/2022,Midfielder,Crystal Palace,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Scott McTominay,24,850003200,1996/12/08,Premier League,2021/2022,Midfielder,Manchester United,84,70,14,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.07,84,42,0,0,0,-1,-1,-1,10
+Sead Kolašinac,28,740534400,1993/06/20,Premier League,2021/2022,Defender,Arsenal,90,0,90,Bosnia and Herzegovina,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,5,1,0,0,0,0,0,0,0,5,18,90,90,0,1,-1,-1,-1,4
+Séamus Coleman,32,592531200,1988/10/11,Premier League,2021/2022,Defender,Everton,270,90,180,Republic of Ireland,3,1,2,0,0,0,0,0,0,0,0,1,0,1,3,1,2,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,6
+Sean Longstaff,23,878169600,1997/10/30,Premier League,2021/2022,Midfielder,Newcastle United,140,96,44,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1.29,70,47,0,0,0,-1,-1,-1,7
+Sergi Canós Tenes,24,854841600,1997/02/02,Premier League,2021/2022,Midfielder,Brentford,270,90,180,Spain,3,1,2,1,1,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0.33,0,0.33,1,0,270,0.33,270,90,0,0,0,-1,-1,-1,3
+Sergio Reguilón Rodríguez,24,850694400,1996/12/16,Premier League,2021/2022,Defender,Tottenham Hotspur,270,180,90,Spain,3,2,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,5
+Shandon Baptiste,23,891993600,1998/04/08,Premier League,2021/2022,Midfielder,Brentford,1,0,1,Grenada,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1,-1,-1,18
+Shane Duffy,29,694224000,1992/01/01,Premier League,2021/2022,Defender,Brighton & Hove Albion,270,180,90,Republic of Ireland,3,2,1,1,1,0,0,0,0,0,0,1,1,0,3,2,1,1,0,0.33,0,0.33,0.5,0,270,1,90,90,270,0,0.33,-1,-1,-1,2
+Shane Long,34,538272000,1987/01/22,Premier League,2021/2022,Forward,Southampton,0,0,0,Republic of Ireland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Solomon March,27,774662400,1994/07/20,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0.5,180,90,180,0,0.5,-1,-1,-1,15
+Steven Alzate,22,905212800,1998/09/08,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,72,0,72,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.25,72,72,0,0,0,-1,-1,-1,4
+Steven Bergwijn,23,876268800,1997/10/08,Premier League,2021/2022,Forward,Tottenham Hotspur,235,145,90,Netherlands,3,2,1,0,0,0,1,1,0,0,0,3,2,1,0,0,0,0,0,0.38,0.38,0,0,0,0,0,0,78,0,235,0,-1,-1,-1,11
+Stuart Armstrong,29,701913600,1992/03/30,Premier League,2021/2022,Midfielder,Southampton,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Stuart Dallas,30,672019200,1991/04/19,Premier League,2021/2022,Midfielder,Leeds United,270,90,180,Northern Ireland,3,1,2,0,0,0,1,0,1,0,0,0,0,0,8,2,6,0,0,0.33,0.33,0,0,0,0,2.67,34,90,0,270,0,-1,-1,-1,16
+Takumi Minamino,26,790214400,1995/01/16,Premier League,2021/2022,Forward,Liverpool,0,0,0,Japan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Tammy Abraham,23,875750400,1997/10/02,Premier League,2021/2022,Forward,Chelsea,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Taylor Richards,20,975888000,2000/12/04,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,17,17,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,-1,-1,-1,7
+Teemu Pukki,31,638668800,1990/03/29,Premier League,2021/2022,Forward,Norwich City,227,150,77,Finland,3,2,1,1,1,0,0,0,0,1,0,0,0,0,8,4,4,0,0,0.4,0,0.4,0.6,0,227,3.17,28,76,0,0,0,-1,-1,-1,1
+Theo Walcott,32,606009600,1989/03/16,Premier League,2021/2022,Forward,Southampton,126,46,80,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.43,63,63,0,0,0,-1,-1,-1,12
+Thiago Alcantara,30,671328000,1991/04/11,Premier League,2021/2022,Midfielder,Liverpool,25,25,0,Spain,2,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,-1,-1,-1,5
+Thiago Silva,36,464659200,1984/09/22,Premier League,2021/2022,Defender,Chelsea,44,0,44,Brazil,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,-1,-1,-1,8
+Thomas Doyle,19,1003276800,2001/10/17,Premier League,2021/2022,Midfielder,Manchester City,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Tim Krul,33,576028800,1988/04/03,Premier League,2021/2022,Goalkeeper,Norwich City,270,180,90,Netherlands,3,2,1,0,0,0,0,0,0,0,0,0,0,0,10,5,5,0,0,0,0,0,0,0,0,3.33,27,90,0,0,0,-1,-1,-1,10
+Timo Werner,25,826070400,1996/03/06,Premier League,2021/2022,Forward,Chelsea,90,90,0,Germany,2,1,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,-1,-1,-1,11
+Timothy Castagne,25,818121600,1995/12/05,Premier League,2021/2022,Defender,Leicester City,79,0,79,Belgium,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.14,79,79,0,0,0,-1,-1,-1,18
+Todd Cantwell,23,888537600,1998/02/27,Premier League,2021/2022,Midfielder,Norwich City,266,176,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,10,5,5,2,0,0,0,0,0,0,0,3.38,27,89,133,0,0.68,-1,-1,-1,3
+Tom Cleverley,31,618883200,1989/08/12,Premier League,2021/2022,Midfielder,Watford,188,79,109,England,3,1,2,0,0,0,1,1,0,0,0,0,0,0,3,1,2,0,0,0.48,0.48,0,0,0,0,1.44,63,63,0,188,0,-1,-1,-1,14
+Tom Davies,23,899164800,1998/06/30,Premier League,2021/2022,Midfielder,Everton,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Tom Heaton,35,513907200,1986/04/15,Premier League,2021/2022,Goalkeeper,Manchester United,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Tomáš Souček,26,793843200,1995/02/27,Premier League,2021/2022,Midfielder,West Ham United,270,180,90,Czech Republic,3,2,1,1,0,1,0,0,0,0,0,0,0,0,5,3,2,0,0,0.33,0,0.33,0,1,270,1.67,54,90,0,0,0,-1,-1,-1,5
+Trent Alexander-Arnold,22,907718400,1998/10/07,Premier League,2021/2022,Defender,Liverpool,270,180,90,England,3,2,1,0,0,0,1,1,0,0,0,2,1,1,1,1,0,0,0,0.33,0.33,0,0,0,0,0.33,270,90,0,270,0,-1,-1,-1,14
+Trevoh Chalobah,22,931132800,1999/07/05,Premier League,2021/2022,Defender,Chelsea,93,90,3,England,2,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0.97,0,0.97,1,0,93,0,0,47,0,0,0,-1,-1,-1,5
+Troy Deeney,33,583545600,1988/06/29,Premier League,2021/2022,Forward,Watford,23,11,12,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,-1,-1,-1,8
+Tyler Roberts,22,916099200,1999/01/12,Premier League,2021/2022,Forward,Leeds United,60,30,30,Wales,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,-1,-1,-1,8
+Tyrick Mitchell,21,936144000,1999/09/01,Premier League,2021/2022,Defender,Crystal Palace,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,6
+Tyrone Mings,28,731980800,1993/03/13,Premier League,2021/2022,Defender,Aston Villa,180,90,90,England,2,1,1,0,0,0,1,1,0,0,0,1,1,0,3,0,3,1,0,0.5,0.5,0,0,0,0,1.5,60,90,180,180,0.5,-1,-1,-1,19
+Valentino Livramento,18,1037059200,2002/11/12,Premier League,2021/2022,Defender,Southampton,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,16
+Vicente Guaita,34,537235200,1987/01/10,Premier League,2021/2022,Goalkeeper,Crystal Palace,270,90,180,Spain,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,2
+Victor Nilsson Lindelöf,27,774403200,1994/07/17,Premier League,2021/2022,Defender,Manchester United,180,90,90,Sweden,2,1,1,0,0,0,1,1,0,0,0,0,0,0,2,1,1,0,0,0.5,0.5,0,0,0,0,1,90,90,0,180,0,-1,-1,-1,12
+Virgil van Dijk,30,678931200,1991/07/08,Premier League,2021/2022,Defender,Liverpool,270,180,90,Netherlands,3,2,1,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0.33,270,90,0,0,0,-1,-1,-1,16
+Vitaly Janelt,23,894758400,1998/05/10,Premier League,2021/2022,Midfielder,Brentford,266,90,176,Germany,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,1,0,0,0,0,0,0,0,0.34,266,89,266,0,0.34,-1,-1,-1,14
+Vladimír Coufal,28,714441600,1992/08/22,Premier League,2021/2022,Defender,West Ham United,270,180,90,Czech Republic,3,2,1,0,0,0,1,1,0,0,0,0,0,0,5,3,2,0,0,0.33,0.33,0,0,0,0,1.67,54,90,0,270,0,-1,-1,-1,9
+Wayne Hennessey,34,538444800,1987/01/24,Premier League,2021/2022,Goalkeeper,Burnley,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Wesley Moraes Ferreira da Silva,24,848966400,1996/11/26,Premier League,2021/2022,Forward,Aston Villa,0,0,0,Brazil,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Wilfried Zaha,28,721353600,1992/11/10,Premier League,2021/2022,Midfielder,Crystal Palace,270,90,180,Côte d'Ivoire,3,1,2,0,0,0,0,0,0,0,0,1,1,0,5,0,5,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,11
+Will Norris,28,745113600,1993/08/12,Premier League,2021/2022,Goalkeeper,Burnley,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+William Troost-Ekong,27,746841600,1993/09/01,Premier League,2021/2022,Defender,Watford,270,90,180,Nigeria,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,17
+Willy Boly,30,665539200,1991/02/03,Premier League,2021/2022,Defender,Wolverhampton Wanderers,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Yann Valery,22,919641600,1999/02/22,Premier League,2021/2022,Defender,Southampton,0,0,0,France,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Yerry Fernando Mina González,26,780278400,1994/09/23,Premier League,2021/2022,Defender,Everton,97,7,90,Colombia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,1.86,49,49,97,0,0.93,-1,-1,-1,13
+Yoane Wissa,24,841708800,1996/09/03,Premier League,2021/2022,Forward,Brentford,37,0,37,France,2,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,-1,-1,-1,6
+Youri Tielemans,24,862963200,1997/05/07,Premier League,2021/2022,Midfielder,Leicester City,270,90,180,Belgium,3,1,2,1,0,1,0,0,0,0,0,1,1,0,5,0,5,0,0,0.33,0,0.33,0,0.5,270,1.67,54,90,0,0,0,-1,-1,-1,3
+Yves Bissouma,24,841363200,1996/08/30,Premier League,2021/2022,Midfielder,Brighton & Hove Albion,270,180,90,Mali,3,2,1,0,0,0,1,1,0,0,0,1,1,0,3,2,1,1,0,0.33,0.33,0,0,0,0,1,90,90,270,270,0.33,-1,-1,-1,14
+Zack Steffen,26,796780800,1995/04/02,Premier League,2021/2022,Goalkeeper,Manchester City,0,0,0,USA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1
+Łukasz Fabiański,36,482630400,1985/04/18,Premier League,2021/2022,Goalkeeper,West Ham United,270,180,90,Poland,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,6
