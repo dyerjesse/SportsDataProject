@@ -3,7 +3,6 @@ import json
 with open('matchday3.json', 'r') as file:
 	data = json.load(file)
 
-'''
 t_one = 0 #Arsenal
 t_two = 0 #Aston Villa
 t_three = 0 #Brentford FC
@@ -24,6 +23,27 @@ t_seventeen = 0 #Tottenham
 t_eighteen = 0 #Watford
 t_nineteen = 0 #West Ham United
 t_twenty = 0 #Wolves
+
+arsenal = [] #Arsenal
+aston = [] #Aston Villa
+brentford = [] #Brentford FC
+brighton = [] #Brighton
+burnley = [] #Burnley
+chelsea = [] #Chelsea
+crystal = [] #Crystal Palace
+everton = [] #Everton
+leeds = [] #Leeds United
+leicester = [] #Leicester City
+liverpool = [] #Liverpool
+city = [] #Manchester City
+united = [] #Manchester United
+newcastle = [] #Newcastle United
+norwich = [] #Norwich City
+southampton = [] #Southampton
+tottenham = [] #Tottenham
+watford = [] #Watford
+west = [] #West Ham United
+wolves = [] #Wolves
 
 for row in data:
 	row['goals'] = int(row['goals'])
@@ -75,10 +95,16 @@ for row in data:
 	if row['team'] not in team_lst:
 		team_lst.append(row['team'])
 
-for team in team_lst:
-	print(team)
-'''
+for row in team_lst:
+	print(row)
 
+for row in data:
+	if row['team'] == "Manchester United":
+		united.append(row['name'])
+		united.append(row['goals'])
+		united.append('')
+
+print(united)
 
 '''
 tottenham -- Tottenham Hotspur
@@ -101,7 +127,7 @@ newcastle -- Newcastle United
 wolves -- Wolverhampton Wanderers
 Norwich city -- Norwich City
 Arsenal -- Arsenal FC
-'''
+
 #if row['team'] == 'Arsenal FC':
 
 Arsenal = 0 #Arsenal
@@ -178,4 +204,4 @@ for row in data:
 for team in team_lst:
 	if team is in data:
 	print(team)
-
+'''
