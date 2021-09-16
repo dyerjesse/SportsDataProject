@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Bamford, Patrick",
+        "team": "Leeds United",
+        "rank": 21,
+        "goals": 1,
+        "assists": 1,
+        "goal_cont": 2,
+        "team_rank": 1,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 25.0,
+        "assist_percentage": 33.33333333333333
+    },
+    {
+        "name": "Cooper, Liam",
+        "team": "Leeds United",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 2,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 0.0,
+        "assist_percentage": 33.33333333333333
+    },
+    {
+        "name": "Klich, Mateusz",
+        "team": "Leeds United",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 3,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 25.0,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Dallas, Stuart",
+        "team": "Leeds United",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 4,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 0.0,
+        "assist_percentage": 33.33333333333333
+    },
+    {
+        "name": "Ayling, Luke",
+        "team": "Leeds United",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 5,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 25.0,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Raphinha",
+        "team": "Leeds United",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 6,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 25.0,
+        "assist_percentage": 0.0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Aubameyang, Pierre-Emerick",
+        "team": "Arsenal FC",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 1,
+        "total_goals": 1,
+        "total_assists": 1,
+        "goal_percentage": 100.0,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Pepe, Nicolas",
+        "team": "Arsenal FC",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 2,
+        "total_goals": 1,
+        "total_assists": 1,
+        "goal_percentage": 0.0,
+        "assist_percentage": 100.0
+    }
+]

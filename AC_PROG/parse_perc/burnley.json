@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Westwood, Ashley",
+        "team": "Burnley FC",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 1,
+        "total_goals": 3,
+        "total_assists": 3,
+        "goal_percentage": 0.0,
+        "assist_percentage": 33.33333333333333
+    },
+    {
+        "name": "Gudmundsson, Johann",
+        "team": "Burnley FC",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 2,
+        "total_goals": 3,
+        "total_assists": 3,
+        "goal_percentage": 0.0,
+        "assist_percentage": 33.33333333333333
+    },
+    {
+        "name": "Wood, Chris",
+        "team": "Burnley FC",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 3,
+        "total_goals": 3,
+        "total_assists": 3,
+        "goal_percentage": 33.33333333333333,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Lowton, Matthew",
+        "team": "Burnley FC",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 4,
+        "total_goals": 3,
+        "total_assists": 3,
+        "goal_percentage": 0.0,
+        "assist_percentage": 33.33333333333333
+    },
+    {
+        "name": "Mee, Ben",
+        "team": "Burnley FC",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 5,
+        "total_goals": 3,
+        "total_assists": 3,
+        "goal_percentage": 33.33333333333333,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Tarkowski, James",
+        "team": "Burnley FC",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 6,
+        "total_goals": 3,
+        "total_assists": 3,
+        "goal_percentage": 33.33333333333333,
+        "assist_percentage": 0.0
+    }
+]

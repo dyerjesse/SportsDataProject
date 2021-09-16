@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Antonio, Michail",
+        "team": "West Ham United",
+        "rank": 1,
+        "goals": 4,
+        "assists": 3,
+        "goal_cont": 7,
+        "team_rank": 1,
+        "total_goals": 10,
+        "total_assists": 8,
+        "goal_percentage": 40.0,
+        "assist_percentage": 37.5
+    },
+    {
+        "name": "Benrahma, Said",
+        "team": "West Ham United",
+        "rank": 4,
+        "goals": 2,
+        "assists": 2,
+        "goal_cont": 4,
+        "team_rank": 2,
+        "total_goals": 10,
+        "total_assists": 8,
+        "goal_percentage": 20.0,
+        "assist_percentage": 25.0
+    },
+    {
+        "name": "Fornals, Pablo",
+        "team": "West Ham United",
+        "rank": 8,
+        "goals": 2,
+        "assists": 1,
+        "goal_cont": 3,
+        "team_rank": 3,
+        "total_goals": 10,
+        "total_assists": 8,
+        "goal_percentage": 20.0,
+        "assist_percentage": 12.5
+    },
+    {
+        "name": "Cresswell, Aaron",
+        "team": "West Ham United",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 4,
+        "total_goals": 10,
+        "total_assists": 8,
+        "goal_percentage": 10.0,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Coufal, Vladimir",
+        "team": "West Ham United",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 5,
+        "total_goals": 10,
+        "total_assists": 8,
+        "goal_percentage": 0.0,
+        "assist_percentage": 12.5
+    },
+    {
+        "name": "Soucek, Tomas",
+        "team": "West Ham United",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 6,
+        "total_goals": 10,
+        "total_assists": 8,
+        "goal_percentage": 10.0,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Rice, Declan",
+        "team": "West Ham United",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 7,
+        "total_goals": 10,
+        "total_assists": 8,
+        "goal_percentage": 0.0,
+        "assist_percentage": 12.5
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Son, Heung Min",
+        "team": "Tottenham Hotspur",
+        "rank": 21,
+        "goals": 2,
+        "assists": 0,
+        "goal_cont": 2,
+        "team_rank": 1,
+        "total_goals": 3,
+        "total_assists": 1,
+        "goal_percentage": 66.66666666666666,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Alli, Dele",
+        "team": "Tottenham Hotspur",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 2,
+        "total_goals": 3,
+        "total_assists": 1,
+        "goal_percentage": 33.33333333333333,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Bergwijn, Steven",
+        "team": "Tottenham Hotspur",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 3,
+        "total_goals": 3,
+        "total_assists": 1,
+        "goal_percentage": 0.0,
+        "assist_percentage": 100.0
+    }
+]

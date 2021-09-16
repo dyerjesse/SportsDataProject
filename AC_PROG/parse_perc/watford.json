@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Dennis, Emmanuel",
+        "team": "Watford FC",
+        "rank": 21,
+        "goals": 1,
+        "assists": 1,
+        "goal_cont": 2,
+        "team_rank": 1,
+        "total_goals": 3,
+        "total_assists": 2,
+        "goal_percentage": 33.33333333333333,
+        "assist_percentage": 50.0
+    },
+    {
+        "name": "Cleverley, Tom",
+        "team": "Watford FC",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 2,
+        "total_goals": 3,
+        "total_assists": 2,
+        "goal_percentage": 0.0,
+        "assist_percentage": 50.0
+    },
+    {
+        "name": "Sarr, Ismaila",
+        "team": "Watford FC",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 3,
+        "total_goals": 3,
+        "total_assists": 2,
+        "goal_percentage": 33.33333333333333,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Hernandez, Cucho",
+        "team": "Watford FC",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 4,
+        "total_goals": 3,
+        "total_assists": 2,
+        "goal_percentage": 33.33333333333333,
+        "assist_percentage": 0.0
+    }
+]

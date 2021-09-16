@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Gross, Pascal",
+        "team": "Brighton & Hove Albion",
+        "rank": 21,
+        "goals": 0,
+        "assists": 2,
+        "goal_cont": 2,
+        "team_rank": 1,
+        "total_goals": 5,
+        "total_assists": 5,
+        "goal_percentage": 0.0,
+        "assist_percentage": 40.0
+    },
+    {
+        "name": "Maupay, Neal",
+        "team": "Brighton & Hove Albion",
+        "rank": 21,
+        "goals": 2,
+        "assists": 0,
+        "goal_cont": 2,
+        "team_rank": 2,
+        "total_goals": 5,
+        "total_assists": 5,
+        "goal_percentage": 40.0,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "MacAllister, Alexis",
+        "team": "Brighton & Hove Albion",
+        "rank": 21,
+        "goals": 1,
+        "assists": 1,
+        "goal_cont": 2,
+        "team_rank": 3,
+        "total_goals": 5,
+        "total_assists": 5,
+        "goal_percentage": 20.0,
+        "assist_percentage": 20.0
+    },
+    {
+        "name": "Duffy, Shane",
+        "team": "Brighton & Hove Albion",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 4,
+        "total_goals": 5,
+        "total_assists": 5,
+        "goal_percentage": 20.0,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Trossard, Leandro",
+        "team": "Brighton & Hove Albion",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 5,
+        "total_goals": 5,
+        "total_assists": 5,
+        "goal_percentage": 20.0,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Moder, Jakub",
+        "team": "Brighton & Hove Albion",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 6,
+        "total_goals": 5,
+        "total_assists": 5,
+        "goal_percentage": 0.0,
+        "assist_percentage": 20.0
+    },
+    {
+        "name": "Bissouma, Yves",
+        "team": "Brighton & Hove Albion",
+        "rank": 39,
+        "goals": 0,
+        "assists": 1,
+        "goal_cont": 1,
+        "team_rank": 7,
+        "total_goals": 5,
+        "total_assists": 5,
+        "goal_percentage": 0.0,
+        "assist_percentage": 20.0
+    }
+]

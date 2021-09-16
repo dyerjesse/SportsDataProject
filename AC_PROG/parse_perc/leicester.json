@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Vardy, Jamie",
+        "team": "Leicester City",
+        "rank": 8,
+        "goals": 2,
+        "assists": 1,
+        "goal_cont": 3,
+        "team_rank": 1,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 50.0,
+        "assist_percentage": 33.33333333333333
+    },
+    {
+        "name": "Pereira, Ricardo",
+        "team": "Leicester City",
+        "rank": 21,
+        "goals": 0,
+        "assists": 2,
+        "goal_cont": 2,
+        "team_rank": 2,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 0.0,
+        "assist_percentage": 66.66666666666666
+    },
+    {
+        "name": "Albrighton, Marc",
+        "team": "Leicester City",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 3,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 25.0,
+        "assist_percentage": 0.0
+    },
+    {
+        "name": "Tielemans, Youri",
+        "team": "Leicester City",
+        "rank": 39,
+        "goals": 1,
+        "assists": 0,
+        "goal_cont": 1,
+        "team_rank": 4,
+        "total_goals": 4,
+        "total_assists": 3,
+        "goal_percentage": 25.0,
+        "assist_percentage": 0.0
+    }
+]
