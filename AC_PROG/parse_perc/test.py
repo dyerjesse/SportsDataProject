@@ -66,20 +66,6 @@ for row in data_md3:
 	if row['team'] == "Wolverhampton Wanders":
 		wolves.append(row)
 
-'''
-team_goals = 0
-team_assists = 0
-for row in data_md3:
-	if row['team'] in data_md3 == "Manchester United":
-		row['rank'] = int(row['rank'])
-		row['goals'] = int(row['goals'])
-		row['assists'] = int(row['assists'])
-		row['goal_cont'] = row['goals'] + row['assists']
-		if row['team'] == "Manchester United":
-			team_goals = team_goals + row['goals']
-			team_assists = team_assists + row['assists']
-'''
-
 for row in data_md3:
 	row['rank'] = int(row['rank'])
 	row['goals'] = int(row['goals'])
@@ -531,26 +517,3 @@ for row in data_md3:
 print("Outputting data for ", count, " players.")
 
 print("Writing team data to json...")
-
-'''
-arsenal = [] #Arsenal
-aston = [] #Aston Villa
-brentford = [] #Brentford FC
-brighton = [] #Brighton
-burnley = [] #Burnley
-chelsea = [] #Chelsea
-crystal = [] #Crystal Palace
-everton = [] #Everton
-leeds = [] #Leeds United
-leicester = [] #Leicester City
-liverpool = [] #Liverpool
-city = [] #Manchester City
-united = [] #Manchester United
-newcastle = [] #Newcastle United
-norwich = [] #Norwich City
-southampton = [] #Southampton
-tottenham = [] #Tottenham
-watford = [] #Watford
-westham = [] #West Ham United
-wolves = []
-'''
